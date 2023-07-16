@@ -1,4 +1,4 @@
-# ¡Hola ✌! <img src="https://github.com/miniscandal/miniscandal/blob/main/picture/anime/anime-05.png?raw=true" width="60">
+# ¡Hola ✌! <img src="./picture/anime/anime-05.png" width="60">
 
 ### Soy minimi
 
@@ -7,9 +7,8 @@ habilidades que me ayudan a enfrentar diferentes situaciones y desafíos. Mi exp
 me ha permitido la oportunidad de aprender a analizar, planificar, diseñar y ajustar  
 sistemas informáticos.
 
-<!-- <img src="https://raw.githubusercontent.com/miniscandal/miniscandal/main/picture/anime/anime-03.png" width="240"> -->
 
-<img src="./picture/anime/photo-github.png" width="560">
+<img src="./picture/anime/photo-github.jpg" width="540" style="border: 6px solid #02315e; border-radius: 15px; padding: 6px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-gonzalez-naho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar01dev@gmail.com)
@@ -41,10 +40,9 @@ https://hackacode.todocodeacademy.com/index.php/escenarios/
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### Diagrama de casos de uso UML
-<img src="https://raw.githubusercontent.com/miniscandal/miniscandal/10b010ec844605fb5e49a90938d53fdc39adff40/picture/diagram/uml-use-cases.drawio.svg" width="500">
+<img src="./picture/project/uml-use-cases.drawio.svg" width="500">
 
 Sigo dedicando tiempo y esfuerzo al proyecto y logrando resultados positivos.
-
 
 ## Mi historia de crecimiento profesional
 
@@ -112,21 +110,8 @@ Soy un gran fanático del anime y las series coreanas.
 No solo las disfruto como una forma de entretenimiento, sino que también me gusta  
 apreciarlas desde una perspectiva más profunda y reflexiva.
 
-<img src="https://github.com/miniscandal/miniscandal/blob/main/picture/anime/anime-01.png?raw=true" width="500">
-<img src="https://github.com/miniscandal/miniscandal/blob/main/picture/anime/anime-02.png?raw=true" width="500">
-<!--
-<img src="https://images3.alphacoders.com/131/1318694.png" width="500">
---->
-
-
-
-
-
-
-
-
-
-
+<img src="./picture/anime/anime-01.png" width="540" style="border: 2px solid #217074; border-radius: 10px;">
+<img src="./picture/anime/anime-02.png" width="540" style="border: 2px solid #217074; border-radius: 10px;">
 
 
 
@@ -140,9 +125,4 @@ apreciarlas desde una perspectiva más profunda y reflexiva.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
---->
-
-<!---
-oscar-historia/oscar-historia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
