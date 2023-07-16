@@ -7,7 +7,9 @@ habilidades que me ayudan a enfrentar diferentes situaciones y desafíos. Mi exp
 me ha permitido la oportunidad de aprender a analizar, planificar, diseñar y ajustar  
 sistemas informáticos.
 
-<img src="https://raw.githubusercontent.com/miniscandal/miniscandal/main/picture/anime/anime-03.png" width="240">
+<!-- <img src="https://raw.githubusercontent.com/miniscandal/miniscandal/main/picture/anime/anime-03.png" width="240"> -->
+
+<img src="./picture/anime/photo-github.png" width="560">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-gonzalez-naho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar01dev@gmail.com)
