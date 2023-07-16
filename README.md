@@ -40,7 +40,7 @@ https://hackacode.todocodeacademy.com/index.php/escenarios/
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### Diagrama de casos de uso UML
-<img src="./picture/project/uml-use-cases.drawio.svg" width="500">
+<img src="./picture/project/uml-use-cases.drawio.svg" width="540">
 
 Sigo dedicando tiempo y esfuerzo al proyecto y logrando resultados positivos.
 
