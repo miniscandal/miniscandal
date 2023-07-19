@@ -101,7 +101,7 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Atomic Design](https://img.shields.io/badge/Atomic%20Design-red.svg?style=for-the-badge&logo=atomic-design&logoColor=white)
 ![API](https://img.shields.io/badge/API-F7C815.svg?style=for-the-badge&logo=api&logoColor=white)
-![API Rest](https://img.shields.io/badge/API%20Rest-EC9704.svg?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-EC9704.svg?style=for-the-badge&logo=api&logoColor=white)
 
 
 ## Explorando mis pasatiempos favoritos
@@ -114,6 +114,7 @@ No solo las disfruto como una forma de entretenimiento, sino que también me gus
 apreciarlas desde una perspectiva más profunda y reflexiva.
 
 <img src="./picture/anime/anime-01.png" width="540">
+
 <img src="./picture/anime/anime-02.png" width="540">
 
 
