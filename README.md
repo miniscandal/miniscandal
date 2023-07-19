@@ -98,7 +98,11 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Microcontroladores](https://img.shields.io/badge/Microcontroladores-%230085CA.svg?style=for-the-badge)
 ![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-%23E05298.svg?style=for-the-badge&logo=data:image/svg+xml;base64,<BASE64_DATA>)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Atomic Design](https://img.shields.io/badge/Atomic%20Design-red.svg?style=for-the-badge&logo=atomic-design&logoColor=white)
+![API](https://img.shields.io/badge/API-F7C815.svg?style=for-the-badge&logo=api&logoColor=white)
+![API Rest](https://img.shields.io/badge/API%20Rest-EC9704.svg?style=for-the-badge&logo=api&logoColor=white)
+
 
 ## Explorando mis pasatiempos favoritos
 
