@@ -97,7 +97,7 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge)  
 ![PowerBuilder](https://img.shields.io/badge/PowerBuilder-%23FF0000.svg?style=for-the-badge)
 ![MQTT](https://img.shields.io/badge/MQTT-%23007ACC.svg?style=for-the-badge&logo=MQTT&logoColor=white)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollores-%230085CA.svg?style=for-the-badge)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-%230085CA.svg?style=for-the-badge)
 ![Terminal](https://img.shields.io/badge/Terminal-%23474745.svg?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-%23E05298.svg?style=for-the-badge&logo=data:image/svg+xml;base64,<BASE64_DATA>)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -110,13 +110,14 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 
 ≧◠‿◠≦
 
-Soy un gran fanático del anime y las series coreanas.
-No solo las disfruto como una forma de entretenimiento, sino que también me gusta  
-apreciarlas desde una perspectiva más profunda y reflexiva.
+Soy un gran fanático del anime y las series coreanas. No solo las disfruto como  
+una forma de entretenimiento, sino que también me gusta apreciarlas desde una  
+perspectiva más profunda y reflexiva.
+Tambien me gusta jugar al fútbol de manera casual, aunque hace un tiempo que no lo practico.
 
-Me gusta jugar al fútbol de manera casual, aunque hace un tiempo que no lo practico.  
-Actualmente estoy trabajando en retomar mis aficiones, como el dibujo, los  
-videojuegos y en particular, mi entusiasmo por el simulador de baile Pump It Up.
+Actualmente estoy trabajando en retomar mis aficiones como el dibujo, los  
+videojuegos, sistemas embebidos y en particular, mi entusiasmo por el simulador de  
+baile Pump It Up.
 
 <img src="./picture/anime/anime-01.png" width="540">
 
