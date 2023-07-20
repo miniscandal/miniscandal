@@ -48,17 +48,18 @@ Sigo dedicando tiempo y esfuerzo al proyecto y logrando resultados positivos.
 
 ≧◠‿◠≦
 
-Estoy enfocado en mejorar mis habilidades emocionales y técnicas para aumentar  
-mi eficacia en la ingeniería de sistemas computacionales y enriquecer los aspectos  
-importantes de mi vida.
-
 Estoy capacitado para colaborar en la implementación de la transformación  
 digital de productos y servicios.
 Mi experiencia incluye la automatización de procesos, administración de base  
 datos y el análisis funcional.
 
-Mi objetivo es ayudar a aprovechar las oportunidades que ofrece la  
-tecnología para mejorar su eficiencia y competitividad.
+Mi objetivo es disfrutar del proceso mientras alcanzo mis metas y me desarrollo  
+como Staff Engineer. Para lograrlo, me enfoco en mejorar continuamente mis habilidades  
+emocionales y técnicas, aumentando mi efectividad en liderazgo, administración y asistencia  
+técnica. Además, busco transmitir confianza y apoyar en la mentoría al personal de  
+ingeniería junior, guiándolos en su crecimiento profesional.  
+Al hacerlo, no solo tengo éxito en mi carrera, sino que también enriquezco los aspectos  
+importantes de mi vida personal.
 
 A lo largo de mi educación y ambito profesional he adquirido conocimientos en una amplia  
 variedad de herramientas y tecnologías. Estos conocimientos me han brindado la  
