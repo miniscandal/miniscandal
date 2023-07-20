@@ -112,7 +112,7 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 
 Soy un gran fanático del anime y las series coreanas. No solo las disfruto como  
 una forma de entretenimiento, sino que también me gusta apreciarlas desde una  
-perspectiva más profunda y reflexiva.
+perspectiva más profunda y reflexiva.  
 Tambien me gusta jugar al fútbol de manera casual, aunque hace un tiempo que no lo practico.
 
 Actualmente estoy trabajando en retomar mis aficiones como el dibujo, los  
