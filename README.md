@@ -52,11 +52,15 @@ Estoy enfocado en mejorar mis habilidades emocionales y técnicas para aumentar
 mi eficacia en la ingeniería de sistemas computacionales y enriquecer los aspectos  
 importantes de mi vida.
 
-Puedo colaborar en la implementación de la transformación digital, incluyendo la  
-automatización de procesos y el análisis de datos para mejorar  
-productos, servicios y la toma de decisiones.
+Estoy capacitado para colaborar en la implementación de la transformación  
+digital de productos y servicios.
+Mi experiencia incluye la automatización de procesos, administración de base  
+datos y el análisis funcional.
 
-A lo largo de mi educación y carrera he adquirido conocimientos en una amplia  
+Mi objetivo es ayudar a aprovechar las oportunidades que ofrece la  
+tecnología para mejorar su eficiencia y competitividad.
+
+A lo largo de mi educación y ambito profesional he adquirido conocimientos en una amplia  
 variedad de herramientas y tecnologías. Estos conocimientos me han brindado la  
 capacidad para enfrentar con éxito diversos desafíos y situaciones.
 
@@ -106,9 +110,12 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ≧◠‿◠≦
 
 Soy un gran fanático del anime y las series coreanas.
-
 No solo las disfruto como una forma de entretenimiento, sino que también me gusta  
 apreciarlas desde una perspectiva más profunda y reflexiva.
+
+Me gusta jugar al fútbol de manera casual, aunque hace un tiempo que no lo practico.  
+Actualmente estoy trabajando en retomar mis aficiones, como el dibujo, los  
+videojuegos y en particular, mi entusiasmo por el simulador de baile Pump It Up.
 
 <img src="./picture/anime/anime-01.png" width="540">
 
