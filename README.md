@@ -54,11 +54,10 @@ de base datos y análisis funcional.
 
 Mi objetivo es disfrutar del proceso mientras alcanzo mis metas y me desarrollo  
 como Staff Engineer. Para lograrlo, me enfoco en mejorar continuamente mis habilidades  
-emocionales y técnicas, aumentando mi efectividad en liderazgo, administración y asistencia  
-técnica. Además, busco transmitir confianza y apoyar en la mentoría al personal de  
-ingeniería junior, guiándolos en su crecimiento profesional.  
-Al hacerlo, no solo tengo éxito en mi carrera, sino que también enriquezco los aspectos  
-importantes de mi vida personal.
+emocionales y técnicas, aumentando mi efectividad en liderazgo, planificación, diseño y  
+desarrollo. Además, busco transmitir confianza y apoyar en la mentoría al personal de  
+ingeniería junior, guiándolos en su crecimiento profesional. Al hacerlo, no solo tengo  
+éxito en mi carrera, sino que también enriquezco los aspectos importantes de mi vida personal.
 
 A lo largo de mi educación y ambito profesional he adquirido conocimientos en una amplia  
 variedad de herramientas y tecnologías. Estos conocimientos me han brindado la  
