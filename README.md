@@ -1,14 +1,21 @@
 # ¡Hola ✌! <img src="./picture/anime/anime-05.png" width="60">
 
-### Soy minimi
+## Me conocen como "Minimi"!
 
-Gracias a mi formacion en ingeniería de sistemas computacionales, he adquirido  
-habilidades que me ayudan a enfrentar diferentes situaciones y desafíos. Mi experiencia  
-me ha permitido la oportunidad de aprender a analizar, planificar, diseñar y ajustar  
-sistemas informáticos.
+Con una sólida formación en ingeniería de sistemas computacionales y un constante  
+aprendizaje autodidacta, he desarrollado un conjunto de habilidades que me permiten  
+abordar y gestionar diversas situaciones y desafíos.
+
+Mi experiencia práctica ha sido esencial para perfeccionar mis  
+habilidades en el análisis, planificación, diseño y optimización de sistemas informáticos.
+
+La combinación de mi educación formal y mi aprendizaje autodidacta me ha preparado   
+eficazmente para adaptarme y destacar en el dinámico campo de la informática.
 
 
-<img src="./picture/anime/photo-github.jpg" width="540">
+
+<img src="./picture/anime/photo-github.jpg" width="540" style="border: 6px solid #02315e; border-radius: 15px; padding: 6px;">
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-gonzalez-naho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar01dev@gmail.com)
@@ -16,14 +23,88 @@ sistemas informáticos.
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -->
 <!-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -->
 
-## Mejorando mi portafolio
+## En que me estoy especializando actualmente.
+≧◠‿◠≦
+
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%232d3250.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
+## Desarrollando soluciones, Mejorando y adquirindo abilidades
 
 ≧◠‿◠≦
 
-Actualmente, estoy trabajando en este proyecto para mejorar mis habilidades y mejorar  
-mi portafolio personal.
+Actualmente, estoy trabajando en este proyecto para mejorar mis  
+habilidades y mejorar mi portafolio personal.
 
-### Primera edición HackaCode - TodoCode
+### Sistema de Gestión de Garantías para Dispositivos Móviles
+
+Durante mi labor en una distribuidora de telefonía identifiqué una oportunidad  
+para optimizar la gestión de garantías de dispositivos móviles. Noté que el control  
+de los traspasos de garantías entre los participantes de la empresa podrían ser más  
+eficientes con un sistema de software.
+
+Este sistema permitiría un seguimiento preciso de los dispositivos en garantía,  
+facilitando la asignación de responsabilidades en cuanto a su  
+recepción, retención y destino.  
+Como resultado, se mejoraría el historial y rastreo de los dispositivos.
+
+Esta solución que podría funcionar como un microservicio dependería del sistema  
+principal de la empresa.
+
+### Diseño y planificación del sistema
+
+#### Tecnologías y Conceptos clave para el desarrollo del proyecto
+
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
+![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)
+
+
+#### Diagrama de casos de uso UML
+
+<img src="./picture/project/uml-use-cases.drawio.svg" width="540">
+
+
+### Momento Actual
+
+A pesar de no tener una relación laboral actual con la empresa, sigo invirtiendo  
+tiempo y esfuerzo en el proyecto, persiguiendo objetivos personales  
+como el aprendizaje y el desarrollo de nuevas habilidades.
+
+Estoy construyendo un entorno que se asemeja o se inspira en el que se necesitaba  
+este software, manteniendo siempre el respeto por la privacidad y sin  
+poner en riesgo ninguna información sensible o propiedad de la empresa.
+
+Si bien me gustaría tener la oportunidad de presentar la solución que estoy  
+desarrollando a la empresa para la que anteriormente trabajaba, mi principal  
+objetivo es evidenciar las habilidades y conocimientos que tengo.
+
+Quiero demostrar mi capacidad para analizar y diseñar soluciones  
+efectivas a los desafíos que las organizaciones a las que estoy postulando como  
+desarrollador de software puedan enfrentar.
+
+
+
+
+
+
+<!-- **************************************************************************************************************** -->
+
+<!-- ### Primera edición HackaCode - TodoCode
 
 Un parque de diversiones necesita de una aplicación web para administrar los datos  
 de las entradas vendidas en cada uno de sus juegos.  
@@ -42,7 +123,19 @@ de las entradas vendidas en cada uno de sus juegos.
 #### Diagrama de casos de uso UML
 <img src="./picture/project/uml-use-cases.drawio.svg" width="540">
 
-Sigo dedicando tiempo y esfuerzo al proyecto y logrando resultados positivos.
+Sigo dedicando tiempo y esfuerzo al proyecto y logrando resultados positivos. -->
+
+<!-- **************************************************************************************************************** -->
+
+
+
+
+
+
+
+
+
+
 
 ## Mi historia de crecimiento profesional
 
@@ -81,27 +174,34 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Embedded System](https://img.shields.io/badge/Embedded%20System-%23738341.svg?style=for-the-badge) 
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-%230085CA.svg?style=for-the-badge)  
 ![IoT](https://img.shields.io/badge/IoT-%230ba5be.svg?style=for-the-badge)
+![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%232d3250.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23272727.svg?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23282C34.svg?style=for-the-badge&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%2344A833.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%23c1c54e.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge)
 ![PowerBuilder](https://img.shields.io/badge/PowerBuilder-%23FF0000.svg?style=for-the-badge)
 ![Terminal](https://img.shields.io/badge/Terminal-%23474745.svg?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-%23E05298.svg?style=for-the-badge&logo=data:image/svg+xml;base64,<BASE64_DATA>)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%2348494a.svg?style=for-the-badge)  
-![Atomic Design](https://img.shields.io/badge/Atomic%20Design-red.svg?style=for-the-badge&logo=atomic-design&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Atomic Design](https://img.shields.io/badge/Atomic%20Design-%230ba5be.svg?style=for-the-badge&logo=atomic-design&logoColor=white)
 ![API](https://img.shields.io/badge/API-F7C815.svg?style=for-the-badge&logo=api&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-EC9704.svg?style=for-the-badge&logo=api&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%2348494a.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)
+
+
+
+
 
 ## Explorando mis pasatiempos favoritos
 
@@ -116,22 +216,14 @@ Actualmente estoy trabajando en retomar mis aficiones como el dibujo, los
 videojuegos, sistemas embebidos y en particular, mi entusiasmo por el simulador de  
 baile Pump It Up.
 
-<img src="./picture/anime/anime-01.png" width="540">
-
-<img src="./picture/anime/anime-02.png" width="540">
+<img src="./picture/anime/anime-01.png" width="540" style="border: 2px solid #217074; border-radius: 10px;">
+<img src="./picture/anime/anime-02.png" width="540" style="border: 2px solid #217074; border-radius: 10px;">
 
 
 
 
 
 <!--
-
-- 👋 Hi, I’m @oscar-historia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
            __-----_.                        ________
           /  \      \           o  O  O   _(        )__
          /    |  |   \_---_   o._.      _(             )_
