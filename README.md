@@ -65,13 +65,14 @@ principal de la empresa.
 ![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/JWT-%234479A.svg?style=for-the-badge)
+![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)  
+![NoSQL](https://img.shields.io/badge/NoSQL-%23424769.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)  
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)
 
 
 #### Diagrama de casos de uso UML
@@ -175,14 +176,15 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-%230085CA.svg?style=for-the-badge)  
 ![IoT](https://img.shields.io/badge/IoT-%230ba5be.svg?style=for-the-badge)
 ![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/JWT-%234479A.svg?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23272727.svg?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%2344A833.svg?style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/NoSQL-%23424769.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-%23c1c54e.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -196,7 +198,6 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Atomic Design](https://img.shields.io/badge/Atomic%20Design-%230ba5be.svg?style=for-the-badge&logo=atomic-design&logoColor=white)
 ![API](https://img.shields.io/badge/API-F7C815.svg?style=for-the-badge&logo=api&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%2348494a.svg?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)
 
 
