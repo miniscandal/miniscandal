@@ -1,6 +1,6 @@
 # ¡Hola ✌! <img src="./picture/anime/anime-05.png" width="60">
 
-## Me conocen como "Minimi"!
+## Me conocen como "Minimi"
 
 Con una sólida formación en ingeniería de sistemas computacionales y un constante  
 aprendizaje autodidacta, he desarrollado un conjunto de habilidades que me permiten  
