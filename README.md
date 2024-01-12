@@ -23,26 +23,26 @@ eficazmente para adaptarme y destacar en el dinámico campo de la informática.
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -->
 <!-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -->
 
-## En que me estoy especializando actualmente.
+## En que me estoy especializando actualmente
 ≧◠‿◠≦
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%232d3250.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
 
 
 
 
-## Desarrollando soluciones, Mejorando y adquirindo abilidades
+## Mejorando y adquirindo abilidades
 
 ≧◠‿◠≦
 
 Actualmente, estoy trabajando en este proyecto para mejorar mis  
 habilidades y mejorar mi portafolio personal.
 
-### Sistema de Gestión de Garantías para Dispositivos Móviles
+### Sistema de gestión de garantías para dispositivos móviles
 
 Durante mi labor en una distribuidora de telefonía identifiqué una oportunidad  
 para optimizar la gestión de garantías de dispositivos móviles. Noté que el control  
@@ -75,7 +75,7 @@ principal de la empresa.
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
 
 
-#### Diagrama de casos de uso UML
+#### Diagrama UML
 
 <img src="./picture/project/entity-relationship.drawio.svg" width="540">
 
