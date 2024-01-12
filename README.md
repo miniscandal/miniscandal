@@ -39,8 +39,8 @@ eficazmente para adaptarme y destacar en el dinámico campo de la informática.
 
 ≧◠‿◠≦
 
-Actualmente, estoy trabajando en este proyecto para mejorar mis  
-habilidades y mejorar mi portafolio personal.
+Actualmente, estoy trabajando en este proyecto para mejorar mis habilidades y mejorar  
+mi portafolio personal.
 
 ### Sistema de gestión de garantías para dispositivos móviles
 
@@ -50,8 +50,7 @@ de los traspasos de garantías entre los participantes de la empresa podrían se
 eficientes con un sistema de software.
 
 Este sistema permitiría un seguimiento preciso de los dispositivos en garantía,  
-facilitando la asignación de responsabilidades en cuanto a su  
-recepción, retención y destino.  
+facilitando la asignación de responsabilidades en cuanto a su recepción, retención y destino.  
 Como resultado, se mejoraría el historial y rastreo de los dispositivos.
 
 Esta solución que podría funcionar como un microservicio dependería del sistema  
@@ -80,7 +79,7 @@ principal de la empresa.
 <img src="./picture/project/entity-relationship.drawio.svg" width="540">
 
 
-### Momento Actual
+#### Momento Actual
 
 A pesar de no tener una relación laboral actual con la empresa, sigo invirtiendo  
 tiempo y esfuerzo en el proyecto, persiguiendo objetivos personales  
