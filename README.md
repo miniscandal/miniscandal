@@ -58,7 +58,7 @@ principal de la empresa.
 
 ### Diseño y planificación del sistema
 
-#### Tecnologías y Conceptos clave para el desarrollo del proyecto
+#### Tecnologías avanzadas y Conceptos clave
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
