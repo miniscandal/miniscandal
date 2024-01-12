@@ -66,7 +66,7 @@ principal de la empresa.
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL](https://img.shields.io/badge/JWT-%234479A.svg?style=for-the-badge)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
@@ -76,7 +76,7 @@ principal de la empresa.
 
 #### Diagrama de casos de uso UML
 
-<img src="./picture/project/uml-use-cases.drawio.svg" width="540">
+<img src="./picture/project/entity-relationship.drawio.svg" width="540">
 
 
 ### Momento Actual
@@ -175,7 +175,7 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-%230085CA.svg?style=for-the-badge)  
 ![IoT](https://img.shields.io/badge/IoT-%230ba5be.svg?style=for-the-badge)
 ![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%232d3250.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/JWT-%234479A.svg?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%23272727.svg?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
