@@ -58,7 +58,7 @@ principal de la empresa.
 
 ### Diseño y planificación del sistema
 
-#### Tecnologías avanzadas y Conceptos clave
+#### Tecnologías avanzadas y conceptos clave
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
@@ -79,7 +79,7 @@ principal de la empresa.
 <img src="./picture/project/entity-relationship.drawio.svg" width="540">
 
 
-#### Momento Actual
+#### Momento actual
 
 A pesar de no tener una relación laboral actual con la empresa, sigo invirtiendo  
 tiempo y esfuerzo en el proyecto, persiguiendo objetivos personales  
