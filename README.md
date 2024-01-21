@@ -59,27 +59,28 @@ mejorar mis habilidades y ampliar mi portafolio personal.
 
 ### Sistema de gestión de garantías para dispositivos móviles
 
-Durante mi labor en una distribuidora de telefonía, identifiqué una oportunidad  
-para optimizar la gestión de garantías de dispositivos móviles. Noté que el control  
-de los traspasos de garantías entre los participantes de la empresa podría ser  
-más eficiente con un sistema de software.
+Durante mi labor en una distribuidora de telefonía, identifiqué una  
+oportunidad para optimizar la gestión de garantías de dispositivos móviles.  
+Noté que el control de los traspasos de garantías entre los participantes  
+de la empresa podría ser más eficiente con un sistema de software.
 
-Este sistema permitiría un seguimiento preciso de los dispositivos en garantía  
-facilitando la asignación de responsabilidades en cuanto a su  
-recepción, retención y destino. Incluiría características como la capacidad de  
-registrar y rastrear el estado de cada dispositivo, alertas automáticas para los  
-plazos de garantía y un panel de control fácil de usar para la administración.
+Este sistema posibilitaría la monitorización exacta de los dispositivos bajo  
+garantía, simplificando la distribución de responsabilidades en términos de su  
+recepción, retención y ubicación final.  
+Incluiría características como la capacidad de registrar y rastrear el estado de  
+cada dispositivo, alertas automáticas para los plazos de garantía y un panel  
+de control fácil de usar para la administración.
 
-Como resultado, se mejoraría el historial y rastreo de los dispositivos, proporcionando  
-una mayor transparencia y eficiencia en el proceso de garantía.
+Como resultado, se optimizaría el seguimiento y registro de los dispositivos  
+otorgando una mayor claridad y eficacia al procedimiento de garantía.
 
-Esta propuesta, que tiene el potencial de operar como un microservicio, estaría  
-sujeta al sistema central de la compañía, que ya ha sido establecido y está en  
+Esta propuesta tiene el potencial de operar como un microservicio, estaría  
+sujeta al sistema central de la compañía que ya ha sido establecido y está en  
 operación gracias a los esfuerzos de desarrolladores previos.
 
 ### Diseño y planificación del sistema
 
-#### Tecnologías avanzadas y conceptos clave
+#### Tecnologías y conceptos clave
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
