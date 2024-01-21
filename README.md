@@ -7,6 +7,8 @@
 ![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+
 
 ---
 
@@ -14,23 +16,28 @@ Mi educación y formación profesional en el campo de la ingeniería de sistemas
 computacionales, junto con mi aprendizaje autodidacta continuo, han fortalecido   
 mis habilidades tanto técnicas como interpersonales.
 
-Mis habilidades técnicas en análisis, planificación, diseño y optimización me  
-hacen capaz de identificar y solucionar problemas eficazmente mediante sistemas  
-informáticos. Mi enfoque creativo para resolver problemas a través de la tecnología  
-ha demostrado ser un recurso valioso para mejorar la eficiencia.
-
-Mis habilidades interpersonales incluyen trabajo en equipo, comunicación  
-asertiva, adaptabilidad, capacidad de resolución, resiliencia, escucha  
-activa y metacognición. Estas habilidades facilitan mi interacción de manera  
-amigable, positiva y cordial con las personas en mi entorno social.
-
-Las competencias que he adquirido, tanto técnicas como interpersonales, me capacitan  
-para gestionar una variedad de situaciones y desafíos con profesionalismo.  
-Mi objetivo es sobresalir y mejorar constantemente en el dinámico campo de la informática.
-
+Mi enfoque creativo para resolver problemas a través de la tecnología ha demostrado  
+ser un recurso valioso para contribuir al desarrollo de proyectos.
 
 <img src="./picture/anime/photo-github.jpg" width="560">
 
+✰  
+Mis habilidades técnicas en análisis, planificación, diseño y optimización me  
+hacen capaz de identificar y solucionar problemas eficazmente mediante sistemas  
+informáticos.
+
+✰  
+Mis habilidades interpersonales incluyen trabajo en equipo, adaptabilidad, escucha  
+activa ,comunicación asertiva, capacidad de resolución, resiliencia, y metacognición.  
+Estas habilidades facilitan mi interacción de manera amigable, positiva y cordial  
+con las personas en mi entorno social.
+
+✰  
+Las competencias que he adquirido, tanto técnicas como interpersonales me capacitan  
+para gestionar situaciones y desafíos con profesionalismo. Mi objetivo es mejorar  
+constantemente en el dinámico campo de la informática.
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-gonzalez-naho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar01dev@gmail.com)
@@ -41,11 +48,14 @@ Mi objetivo es sobresalir y mejorar constantemente en el dinámico campo de la i
 ## En que me estoy especializando
 ≧◠‿◠≦
 
+![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
+![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
+![microservices_architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)  
+![functional_analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
+![software_developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
+![database_administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
 
 
 
@@ -54,46 +64,38 @@ Mi objetivo es sobresalir y mejorar constantemente en el dinámico campo de la i
 
 ≧◠‿◠≦
 
-En este momento, me encuentro dedicado a este proyecto con el objetivo de  
-mejorar mis habilidades y ampliar mi portafolio personal.
+Actualmente, estoy invirtiendo tiempo y dedicación en este proyecto para mejorar  
+mis habilidades y ampliar mi portafolio personal.
 
-### Sistema de gestión de garantías para dispositivos móviles
+### Microservicio para garantías de telefonia
 
-Durante mi labor en una distribuidora de telefonía, identifiqué una  
-oportunidad para optimizar la gestión de garantías de dispositivos móviles.  
-Noté que el control de los traspasos de garantías entre los participantes  
-de la empresa podría ser más eficiente con un sistema de software.
+Durante mi trabajo en una distribuidora de telefonía, identifiqué una oportunidad  
+para mejorar la gestión de garantías de dispositivos móviles. Observé que un sistema  
+de software podría hacer más eficiente el control de las garantías.
 
-Este sistema posibilitaría la monitorización exacta de los dispositivos bajo  
-garantía, simplificando la distribución de responsabilidades en términos de su  
-recepción, retención y ubicación final.  
-Incluiría características como la capacidad de registrar y rastrear el estado de  
-cada dispositivo, alertas automáticas para los plazos de garantía y un panel  
-de control fácil de usar para la administración.
+Este sistema facilitaría el seguimiento preciso de los dispositivos que están bajo  
+garantía, simplificando así la asignación de responsabilidades respecto a su ubicación  
+final, recepción y retención.
 
-Como resultado, se optimizaría el seguimiento y registro de los dispositivos  
-otorgando una mayor claridad y eficacia al procedimiento de garantía.
+Esta propuesta tiene el potencial de operar como un microservicio, estaría sujeta  
+al sistema central de la compañía que ya ha sido establecido y está en operación  
+gracias a los esfuerzos de desarrolladores previos.
 
-Esta propuesta tiene el potencial de operar como un microservicio, estaría  
-sujeta al sistema central de la compañía que ya ha sido establecido y está en  
-operación gracias a los esfuerzos de desarrolladores previos.
-
-### Diseño y planificación del sistema
-
-#### Tecnologías y conceptos clave
+#### Principales tecnologías y conceptos
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20SBoot-%2344A833.svg?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)  
+![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)  
 ![NoSQL](https://img.shields.io/badge/NoSQL-%23424769.svg?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)  
-![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)
+![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 #### Diagrama UML
@@ -103,78 +105,22 @@ operación gracias a los esfuerzos de desarrolladores previos.
 
 #### Momento actual
 
-A pesar de no tener una relación laboral actual con la empresa, sigo invirtiendo  
-tiempo y esfuerzo en el proyecto, persiguiendo objetivos personales como el  
-aprendizaje y el desarrollo de nuevas habilidades.
+Aunque no tengo una relación laboral actual con la empresa, estoy creando un entorno  
+inspirado en el necesario para este software, respetando la privacidad y sin comprometer  
+ninguna información sensible o propiedad de la empresa.
 
-Estoy construyendo un entorno que se asemeja o se inspira en el que se necesitaba  
-este software, manteniendo siempre el respeto por la privacidad y sin poner en  
-riesgo ninguna información sensible o propiedad de la empresa.
-
-Si bien me gustaría tener la oportunidad de presentar la solución que estoy  
-desarrollando a la empresa para la que trabajaba anteriormente, mi objetivo  
-principal es demostrar las habilidades y conocimientos que poseo. Quiero evidenciar  
-mi capacidad para analizar y diseñar soluciones efectivas a los desafíos que puedan  
-enfrentar las organizaciones a las que estoy postulando.
-
-
-
-
-
-
-<!-- **************************************************************************************************************** -->
-
-<!-- ### Primera edición HackaCode - TodoCode
-
-Un parque de diversiones necesita de una aplicación web para administrar los datos  
-de las entradas vendidas en cada uno de sus juegos.  
-[Escenario](https://hackacode.todocodeacademy.com/index.php/escenarios/)
-
-### Diseño y planificación del sistema
-
-#### Tecnologías clave para el proyecto
-
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-#### Diagrama de casos de uso UML
-<img src="./picture/project/uml-use-cases.drawio.svg" width="540">
-
-Sigo dedicando tiempo y esfuerzo al proyecto y logrando resultados positivos. -->
-
-<!-- **************************************************************************************************************** -->
-
-
-
-
-
-
-
-
-
-
+Si bien me gustaría tener la oportunidad de presentar la solución en la que estoy  
+trabajando a la empresa para la que trabajaba anteriormente, mi objetivo es demostrar  
+mi habilidad para analizar, diseñar y llevar a cabo soluciones en respuesta a los  
+desafíos que puedan surgir en las entidades interesadas en mi perfil profesional.
 
 ## Mi historia de crecimiento profesional
 
 ≧◠‿◠≦
 
-Estoy capacitado para colaborar en la implementación de la transformación  
-digital de productos y servicios. Mi experiencia incluye la automatización de  
-procesos, administración de base datos y análisis funcional.
-
-Mi objetivo es disfrutar del proceso mientras alcanzo mis metas y me desarrollo  
-como Staff Engineer. Para lograrlo, me enfoco en mejorar continuamente mis habilidades  
-emocionales y técnicas, aumentando mi efectividad en liderazgo, planificación, diseño  
-y desarrollo. Además, busco transmitir confianza y apoyar en la mentoría al personal de  
-ingeniería junior, guiándolos en su crecimiento profesional. Al hacerlo, no solo tengo  
-éxito en mi carrera, sino que también enriquezco los aspectos importantes de mi vida personal.
-
-A lo largo de mi educación y ambito profesional he adquirido conocimientos en una amplia  
-variedad de herramientas y tecnologías. Estos conocimientos me han brindado la  
-capacidad para enfrentar con éxito diversos desafíos y situaciones.
+A lo largo de mi educación y ambito profesional he adquirido conocimientos en una  
+amplia variedad de herramientas y conceptos. Estos conocimientos me han  
+dado la capacidad para enfrentar con éxito diversos desafíos y situaciones.
 
 <!-- badge personalizado -->
 
@@ -223,6 +169,14 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![Backend](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 
 
+Mi objetivo es disfrutar del proceso mientras alcanzo mis metas y me desarrollo  
+como Staff Engineer. Para lograrlo, me enfoco en mejorar continuamente mis habilidades  
+emocionales y técnicas, aumentando mi efectividad en liderazgo, planificación, diseño  
+y desarrollo.  
+
+Busco transmitir confianza y apoyar en la mentoría al personal de ingeniería  
+junior, guiándolos en su crecimiento profesional. Al hacerlo, no solo tengo éxito  
+en mi carrera, sino que también enriquezco los aspectos importantes de mi vida personal.
 
 
 
@@ -230,16 +184,16 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 
 ≧◠‿◠≦
 
-Soy un gran fanático del anime y las series coreanas. No solo las disfruto como  
-una forma de entretenimiento, sino que también me gusta apreciarlas desde una  
-perspectiva más profunda y reflexiva.
+Soy un gran fanático del anime y las series coreanas. No solo las disfruto como una  
+forma de entretenimiento, sino que también me gusta apreciarlas desde una perspectiva  
+más profunda y reflexiva.
 
-En este momento, estoy enfocándome en reanudar mis pasatiempos favoritos, que  
-incluyen el dibujo, los videojuegos, practicar futbol y especialmente mi pasión  
-por el simulador de baile Pump It Up.
+Estoy centrando mis esfuerzos en retomar las actividades que más disfruto, las cuales  
+incluyen el dibujo, los videojuegos de lucha competitivos, practicar futbol y especialmente  
+mi entusiasmo por el simulador de baile Pump It Up.
 
-<img src="./picture/anime/anime-01.png" width="560">
 <img src="./picture/anime/anime-02.png" width="560">
+<img src="./picture/anime/anime-01.png" width="560">
 
 
 
