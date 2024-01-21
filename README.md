@@ -1,20 +1,35 @@
 # ¡Hola ✌! <img src="./picture/anime/anime-05.png" width="60">
 
 ## Me conocen como "Minimi"
-
-Con una sólida formación en ingeniería de sistemas computacionales y un constante  
-aprendizaje autodidacta, he desarrollado un conjunto de habilidades que me permiten  
-abordar y gestionar diversas situaciones y desafíos.
-
-Mi experiencia práctica ha sido esencial para perfeccionar mis  
-habilidades en el análisis, planificación, diseño y optimización de sistemas informáticos.
-
-La combinación de mi educación formal y mi aprendizaje autodidacta me ha preparado   
-eficazmente para adaptarme y destacar en el dinámico campo de la informática.
+≧◠‿◠≦
 
 
+![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
+![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
+![Backend](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 
-<img src="./picture/anime/photo-github.jpg" width="540" style="border: 6px solid #02315e; border-radius: 15px; padding: 6px;">
+---
+
+Mi educación y formación profesional en el campo de la ingeniería de sistemas   
+computacionales, junto con mi aprendizaje autodidacta continuo, han fortalecido   
+mis habilidades tanto técnicas como interpersonales.
+
+Mis habilidades técnicas en análisis, planificación, diseño y optimización me hacen  
+capaz de identificar y solucionar problemas eficazmente mediante sistemas informáticos.  
+Mi enfoque creativo para resolver problemas a través de la tecnología ha demostrado  
+ser un recurso valioso para mejorar la eficiencia.
+
+Mis habilidades interpersonales incluyen trabajo en equipo, comunicación  
+asertiva, adaptabilidad, capacidad de resolución, resiliencia, escucha  
+activa y metacognición. Estas habilidades facilitan mi interacción de manera  
+amigable, positiva y cordial con las personas en mi entorno social.
+
+Las competencias que he adquirido, tanto técnicas como interpersonales, me capacitan  
+para gestionar una variedad de situaciones y desafíos con profesionalismo.  
+Mi objetivo es sobresalir y mejorar constantemente en el dinámico campo de la informática.
+
+
+<img src="./picture/anime/photo-github.jpg" width="560">
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-gonzalez-naho/)
@@ -23,7 +38,7 @@ eficazmente para adaptarme y destacar en el dinámico campo de la informática.
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -->
 <!-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -->
 
-## En que me estoy especializando actualmente
+## En que me estoy especializando
 ≧◠‿◠≦
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -35,26 +50,32 @@ eficazmente para adaptarme y destacar en el dinámico campo de la informática.
 
 
 
-## Mejorando y adquirindo abilidades
+## Mejorando y adquiriendo habilidades
 
 ≧◠‿◠≦
 
-Actualmente, estoy trabajando en este proyecto para mejorar mis habilidades y mejorar  
-mi portafolio personal.
+En este momento, me encuentro dedicado a este proyecto con el objetivo de mejorar  
+mis habilidades y ampliar mi portafolio personal.
 
 ### Sistema de gestión de garantías para dispositivos móviles
 
-Durante mi labor en una distribuidora de telefonía identifiqué una oportunidad  
+Durante mi labor en una distribuidora de telefonía, identifiqué una oportunidad  
 para optimizar la gestión de garantías de dispositivos móviles. Noté que el control  
-de los traspasos de garantías entre los participantes de la empresa podrían ser más  
-eficientes con un sistema de software.
+de los traspasos de garantías entre los participantes de la empresa podría ser  
+más eficiente con un sistema de software.
 
-Este sistema permitiría un seguimiento preciso de los dispositivos en garantía,  
-facilitando la asignación de responsabilidades en cuanto a su recepción, retención y destino.  
-Como resultado, se mejoraría el historial y rastreo de los dispositivos.
+Este sistema permitiría un seguimiento preciso de los dispositivos en garantía  
+facilitando la asignación de responsabilidades en cuanto a su  
+recepción, retención y destino. Incluiría características como la capacidad de  
+registrar y rastrear el estado de cada dispositivo, alertas automáticas para los  
+plazos de garantía y un panel de control fácil de usar para la administración.
 
-Esta solución que podría funcionar como un microservicio dependería del sistema  
-principal de la empresa.
+Como resultado, se mejoraría el historial y rastreo de los dispositivos, proporcionando  
+una mayor transparencia y eficiencia en el proceso de garantía.
+
+Esta propuesta, que tiene el potencial de operar como un microservicio, estaría  
+sujeta al sistema central de la compañía, que ya ha sido establecido y está en  
+operación gracias a los esfuerzos de desarrolladores previos.
 
 ### Diseño y planificación del sistema
 
@@ -82,8 +103,8 @@ principal de la empresa.
 #### Momento actual
 
 A pesar de no tener una relación laboral actual con la empresa, sigo invirtiendo  
-tiempo y esfuerzo en el proyecto, persiguiendo objetivos personales  
-como el aprendizaje y el desarrollo de nuevas habilidades.
+tiempo y esfuerzo en el proyecto, persiguiendo objetivos personales como el  
+aprendizaje y el desarrollo de nuevas habilidades.
 
 Estoy construyendo un entorno que se asemeja o se inspira en el que se necesitaba  
 este software, manteniendo siempre el respeto por la privacidad y sin  
@@ -93,8 +114,8 @@ Si bien me gustaría tener la oportunidad de presentar la solución que estoy
 desarrollando a la empresa para la que anteriormente trabajaba, mi principal  
 objetivo es evidenciar las habilidades y conocimientos que tengo.
 
-Quiero demostrar mi capacidad para analizar y diseñar soluciones  
-efectivas a los desafíos que las organizaciones a las que estoy postulando como  
+Quiero demostrar mi capacidad para analizar y diseñar soluciones efectivas a los  
+desafíos que las organizaciones a las que estoy postulando como  
 desarrollador de software puedan enfrentar.
 
 
@@ -198,6 +219,9 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 ![API](https://img.shields.io/badge/API-F7C815.svg?style=for-the-badge&logo=api&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%2348494a.svg?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)
+![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
+![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)  
+![Backend](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 
 
 
@@ -209,15 +233,14 @@ capacidad para enfrentar con éxito diversos desafíos y situaciones.
 
 Soy un gran fanático del anime y las series coreanas. No solo las disfruto como  
 una forma de entretenimiento, sino que también me gusta apreciarlas desde una  
-perspectiva más profunda y reflexiva.  
-Tambien me gusta jugar al fútbol de manera casual, aunque hace un tiempo que no lo practico.
+perspectiva más profunda y reflexiva.
 
-Actualmente estoy trabajando en retomar mis aficiones como el dibujo, los  
-videojuegos, sistemas embebidos y en particular, mi entusiasmo por el simulador de  
-baile Pump It Up.
+En este momento, estoy enfocándome en reanudar mis pasatiempos  
+favoritos, que incluyen el dibujo, los videojuegos, practicar futbol y especialmente  
+mi pasión por el simulador de baile Pump It Up.
 
-<img src="./picture/anime/anime-01.png" width="540" style="border: 2px solid #217074; border-radius: 10px;">
-<img src="./picture/anime/anime-02.png" width="540" style="border: 2px solid #217074; border-radius: 10px;">
+<img src="./picture/anime/anime-01.png" width="560">
+<img src="./picture/anime/anime-02.png" width="560">
 
 
 
