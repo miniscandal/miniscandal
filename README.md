@@ -14,10 +14,10 @@ Mi educación y formación profesional en el campo de la ingeniería de sistemas
 computacionales, junto con mi aprendizaje autodidacta continuo, han fortalecido   
 mis habilidades tanto técnicas como interpersonales.
 
-Mis habilidades técnicas en análisis, planificación, diseño y optimización me hacen  
-capaz de identificar y solucionar problemas eficazmente mediante sistemas informáticos.  
-Mi enfoque creativo para resolver problemas a través de la tecnología ha demostrado  
-ser un recurso valioso para mejorar la eficiencia.
+Mis habilidades técnicas en análisis, planificación, diseño y optimización me  
+hacen capaz de identificar y solucionar problemas eficazmente mediante sistemas  
+informáticos. Mi enfoque creativo para resolver problemas a través de la tecnología  
+ha demostrado ser un recurso valioso para mejorar la eficiencia.
 
 Mis habilidades interpersonales incluyen trabajo en equipo, comunicación  
 asertiva, adaptabilidad, capacidad de resolución, resiliencia, escucha  
@@ -54,8 +54,8 @@ Mi objetivo es sobresalir y mejorar constantemente en el dinámico campo de la i
 
 ≧◠‿◠≦
 
-En este momento, me encuentro dedicado a este proyecto con el objetivo de mejorar  
-mis habilidades y ampliar mi portafolio personal.
+En este momento, me encuentro dedicado a este proyecto con el objetivo de  
+mejorar mis habilidades y ampliar mi portafolio personal.
 
 ### Sistema de gestión de garantías para dispositivos móviles
 
@@ -107,16 +107,14 @@ tiempo y esfuerzo en el proyecto, persiguiendo objetivos personales como el
 aprendizaje y el desarrollo de nuevas habilidades.
 
 Estoy construyendo un entorno que se asemeja o se inspira en el que se necesitaba  
-este software, manteniendo siempre el respeto por la privacidad y sin  
-poner en riesgo ninguna información sensible o propiedad de la empresa.
+este software, manteniendo siempre el respeto por la privacidad y sin poner en  
+riesgo ninguna información sensible o propiedad de la empresa.
 
 Si bien me gustaría tener la oportunidad de presentar la solución que estoy  
-desarrollando a la empresa para la que anteriormente trabajaba, mi principal  
-objetivo es evidenciar las habilidades y conocimientos que tengo.
-
-Quiero demostrar mi capacidad para analizar y diseñar soluciones efectivas a los  
-desafíos que las organizaciones a las que estoy postulando como  
-desarrollador de software puedan enfrentar.
+desarrollando a la empresa para la que trabajaba anteriormente, mi objetivo  
+principal es demostrar las habilidades y conocimientos que poseo. Quiero evidenciar  
+mi capacidad para analizar y diseñar soluciones efectivas a los desafíos que puedan  
+enfrentar las organizaciones a las que estoy postulando.
 
 
 
@@ -162,14 +160,14 @@ Sigo dedicando tiempo y esfuerzo al proyecto y logrando resultados positivos. --
 
 ≧◠‿◠≦
 
-Estoy capacitado para colaborar en la implementación de la transformación digital de  
-productos y servicios. Mi experiencia incluye la automatización de procesos, administración  
-de base datos y análisis funcional.
+Estoy capacitado para colaborar en la implementación de la transformación  
+digital de productos y servicios. Mi experiencia incluye la automatización de  
+procesos, administración de base datos y análisis funcional.
 
 Mi objetivo es disfrutar del proceso mientras alcanzo mis metas y me desarrollo  
 como Staff Engineer. Para lograrlo, me enfoco en mejorar continuamente mis habilidades  
-emocionales y técnicas, aumentando mi efectividad en liderazgo, planificación, diseño y  
-desarrollo. Además, busco transmitir confianza y apoyar en la mentoría al personal de  
+emocionales y técnicas, aumentando mi efectividad en liderazgo, planificación, diseño  
+y desarrollo. Además, busco transmitir confianza y apoyar en la mentoría al personal de  
 ingeniería junior, guiándolos en su crecimiento profesional. Al hacerlo, no solo tengo  
 éxito en mi carrera, sino que también enriquezco los aspectos importantes de mi vida personal.
 
@@ -235,9 +233,9 @@ Soy un gran fanático del anime y las series coreanas. No solo las disfruto como
 una forma de entretenimiento, sino que también me gusta apreciarlas desde una  
 perspectiva más profunda y reflexiva.
 
-En este momento, estoy enfocándome en reanudar mis pasatiempos  
-favoritos, que incluyen el dibujo, los videojuegos, practicar futbol y especialmente  
-mi pasión por el simulador de baile Pump It Up.
+En este momento, estoy enfocándome en reanudar mis pasatiempos favoritos, que  
+incluyen el dibujo, los videojuegos, practicar futbol y especialmente mi pasión  
+por el simulador de baile Pump It Up.
 
 <img src="./picture/anime/anime-01.png" width="560">
 <img src="./picture/anime/anime-02.png" width="560">
