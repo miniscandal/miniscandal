@@ -16,10 +16,10 @@ sistemas computacionales, complementadas con aprendizaje autodidacta y constante
 crecimiento interpersonal, han forjado de mi un perfil competente.
 
 He contribuido con soluciones en respuesta a diversos conflictos en diferentes  
-entidades que explorar y utilizan tecnología emergente. Estas soluciones han  
-demostrado mi habilidad para colaborar de manera efectiva en equipos  
-multidisciplinarios, generar ideas creativas y adaptarme con agilidad a nuevas  
-situaciones.
+entidades que explorar y utilizan tecnología emergente.  
+En estas soluciones he evidenciado mi habilidad para colaborar de manera efectiva  
+en equipos multidisciplinarios, aportar ideas creativas y adaptarme con agilidad  
+a nuevas situaciones.
 
 
 <img src="./picture/anime/photo-github.jpg" width="560">
