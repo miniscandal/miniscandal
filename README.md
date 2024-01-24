@@ -15,7 +15,7 @@ Mi educación y formación profesional en el campo de la ingeniería de sistemas
 computacionales, junto con mi aprendizaje autodidacta continuo, han fortalecido   
 mis habilidades tanto técnicas como interpersonales.
 
-Mi enfoque creativo para resolver problemas a través de la tecnología ha demostrado  
+Mi enfoque creativo para resolver problemas a través de la tecnología ha demos  trado  
 ser un recurso valioso para contribuir al desarrollo de proyectos.
 
 <img src="./picture/anime/photo-github.jpg" width="560">
@@ -53,7 +53,8 @@ constantemente en el dinámico campo de la informática.
 ![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)  ![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
+![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
 
 
 
@@ -175,10 +176,12 @@ con logro mis responsabilidades en los proyectos en los que he colaborado.
 ![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
 
 
-Mi objetivo es disfrutar del proceso de desarrollo personal y profesional como  
-Ingeniero de Software. Aspiro a convertirme en una fuente de inspiración y un mentor  
-para el equipo de ingenieros en formación, guiándolos en su crecimiento profesional.  
-Al hacer esto, no solo avanzo en mi carrera sino que también enriquezco aspectos  
+Mi objetivo es disfrutar del proceso de desarrollo interpersonal y profesional  
+mientras aspiro a convertirme en un Staff Software Engineer.
+
+Espero ser una fuente de inspiración y un mentor para el equipo de ingenieros en  
+formación, guiándolos en su crecimiento profesional. Creo que al hacer esto, no  
+solo avanzaré en mi carrera profesional, sino que también enriqueceré aspectos  
 significativos de mi vida personal.
 
 
