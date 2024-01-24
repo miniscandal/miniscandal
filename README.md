@@ -11,12 +11,16 @@
 
 ---
 
-Mi educación y formación profesional en el campo de la ingeniería de sistemas   
-computacionales, junto con mi aprendizaje autodidacta continuo, han fortalecido   
-mis habilidades tanto técnicas como interpersonales.
+Mi experiencia profesional y formacion académica en el campo de la ingeniería de  
+sistemas computacionales, complementadas con aprendizaje autodidacta y constante  
+crecimiento interpersonal, han forjado de mi un perfil competente.
 
-Mi enfoque creativo para resolver problemas a través de la tecnología ha demos  trado  
-ser un recurso valioso para contribuir al desarrollo de proyectos.
+Mi perfil profesional ha contribuido con soluciones en respuesta a diversos  
+conflictos en diferentes entidades que explorar y utilizan tecnología de vanguardia.  
+En estas soluciones he evidenciado mi habilidad para colaborar de manera efectiva  
+en equipos multidisciplinarios, aportar ideas creativas y adaptarme con agilidad  
+a nuevas situaciones.
+
 
 <img src="./picture/anime/photo-github.jpg" width="560">
 
