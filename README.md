@@ -16,7 +16,7 @@ sistemas computacionales, complementadas con aprendizaje autodidacta y constante
 crecimiento interpersonal, han forjado de mi un perfil competente.
 
 Mi perfil profesional ha contribuido con soluciones en respuesta a diversos  
-conflictos en diferentes entidades que explorar y utilizan tecnología de vanguardia.  
+conflictos en diferentes entidades que explorar y utilizan tecnología emergente.  
 En estas soluciones he evidenciado mi habilidad para colaborar de manera efectiva  
 en equipos multidisciplinarios, aportar ideas creativas y adaptarme con agilidad  
 a nuevas situaciones.
