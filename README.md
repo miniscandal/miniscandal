@@ -178,6 +178,7 @@ con logro mis responsabilidades en los proyectos en los que he colaborado.
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
 ![GPT-4 Bing IA](https://img.shields.io/badge/GPT4_Bing_IA-%23F7C8E0.svg?style=for-the-badge&logoColor=white)  
 ![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
+![Preact](https://img.shields.io/badge/preact-%23007ACC.svg?style=for-the-badge&logo=preact&logoColor=white)
 
 
 Mi objetivo es disfrutar del proceso de desarrollo interpersonal y profesional  
