@@ -133,7 +133,7 @@ Mis competencias técnicas, valores personales e interpersonales han sido esenci
 para adaptarme eficazmente a nuevos entornos, así como para desempeñar y aprender  
 de mis roles en los equipos de proyecto.
 
-#### En que he tenido experiencia práctica
+### En que he tenido experiencia práctica
 
 <!-- badge personalizado -->
 
@@ -185,7 +185,7 @@ de mis roles en los equipos de proyecto.
 ![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Preact](https://img.shields.io/badge/preact-%23007ACC.svg?style=for-the-badge&logo=preact&logoColor=white)
 
-#### Hacia qué objetivos dirijo mi crecimiento
+### Hacia qué objetivos dirijo mi crecimiento
 
 Quiero disfrutar aprendiendo y mejorando tanto en lo personal como en lo laboral  
 mientras aspiro a convertirme en un Staff Software Engineer.
