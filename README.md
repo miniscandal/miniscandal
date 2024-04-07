@@ -22,6 +22,9 @@ situaciones y desarrollar soluciones prácticas en diversos contextos. He demost
 estas habilidades al aportar ideas efectivas y soluciones tanto en entidades como  
 en proyectos personales.
 
+<a href="./resources/cv_oscar_gonzalez.pdf" download style="background-color: #ffb3d2; color: #000; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Descargar CV</a>
+
+
 <img src="./picture/anime/photo-github.jpg" width="560">
 
 ✰  
