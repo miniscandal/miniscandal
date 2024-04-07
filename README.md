@@ -20,7 +20,7 @@ Mi enfoque laboral se basa en el análisis, la investigación, la documentación
 planificación. Estas habilidades me permiten adaptarme con agilidad a nuevas  
 situaciones y desarrollar soluciones prácticas en diversos contextos.
 
-[![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7)](./resources/cv_oscar_gonzalez.pdf)
+[![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/cv_oscar_gonzalez.pdf)
 
 
 <img src="./picture/anime/photo-github.jpg" width="560">
