@@ -22,7 +22,7 @@ situaciones y desarrollar soluciones prácticas en diversos contextos. He demost
 estas habilidades al aportar ideas efectivas y soluciones tanto en entidades como  
 en proyectos personales.
 
-[![Descargar CV](https://img.shields.io/badge/Download%20CV-%23ffb3d2)](./resources/cv_oscar_gonzalez.pdf)
+[![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7)](./resources/cv_oscar_gonzalez.pdf)
 
 
 <img src="./picture/anime/photo-github.jpg" width="560">
