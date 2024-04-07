@@ -18,9 +18,7 @@ mis habilidades técnicas, personales e interpersonales.
 
 Mi enfoque laboral se basa en el análisis, la investigación, la documentación y la  
 planificación. Estas habilidades me permiten adaptarme con agilidad a nuevas  
-situaciones y desarrollar soluciones prácticas en diversos contextos. He demostrado  
-estas habilidades al aportar ideas efectivas y soluciones tanto en entidades como  
-en proyectos personales.
+situaciones y desarrollar soluciones prácticas en diversos contextos.
 
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7)](./resources/cv_oscar_gonzalez.pdf)
 
