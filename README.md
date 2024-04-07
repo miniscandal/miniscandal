@@ -119,17 +119,21 @@ trabajando a mi antiguo empleador, mi proposito es demostrar mi habilidad para
 analizar, diseñar y llevar a cabo soluciones en respuesta a los desafíos que puedan  
 surgir en las entidades interesadas en mi perfil profesional.
 
-## Mi historia de crecimiento profesional
+## Evolución de mi perfil
 
 ≧◠‿◠≦
 
-En los desafíos y situaciones que he enfrentado a lo largo de mi educación y ámbito  
-profesional, he requerido aprender a usar una amplia variedad de herramientas y conceptos  
-para desarrollar soluciones adecuadas a cada problemática. Sin embargo, mis competencias  
-técnicas e interpersonales me han ayudado a adaptarme a estas circunstancias y realizar  
-con logro mis responsabilidades en los proyectos en los que he colaborado.
+A lo largo de mi carrera educativa y profesional, me he enfrentado a retos que me  
+han permitido familiarizarme con una amplia gama de herramientas y conceptos técnicos.  
+Aunque no me considero un experto absoluto, mi experiencia práctica me ha brindado  
+una comprensión profunda de su relevancia y la manera óptima de aplicarlos para  
+abordar diversas problemáticas.
 
-#### En que he tenido experiencia
+Mis competencias técnicas, valores personales e interpersonales han sido esenciales  
+para adaptarme eficazmente a nuevos entornos, así como para desempeñar y aprender  
+de mis roles en los equipos de proyecto.
+
+#### En que he tenido experiencia práctica
 
 <!-- badge personalizado -->
 
@@ -181,15 +185,15 @@ con logro mis responsabilidades en los proyectos en los que he colaborado.
 ![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Preact](https://img.shields.io/badge/preact-%23007ACC.svg?style=for-the-badge&logo=preact&logoColor=white)
 
+#### Hacia qué objetivos dirijo mi crecimiento
 
-Mi objetivo es disfrutar del proceso de desarrollo interpersonal y profesional  
+Quiero disfrutar aprendiendo y mejorando tanto en lo personal como en lo laboral  
 mientras aspiro a convertirme en un Staff Software Engineer.
 
 Espero ser una fuente de inspiración y un mentor para el equipo de ingenieros en  
-formación, guiándolos en su crecimiento profesional. Creo que al hacer esto, no  
-solo avanzaré en mi carrera profesional, sino que también enriqueceré aspectos  
-significativos de mi vida personal.
-
+formación, guiándolos en su crecimiento profesional. Creo que al hacer esto, no solo  
+avanzaré en mi carrera profesional, sino que también enriqueceré aspectos  
+significativos de mi vida.
 
 ## Explorando mis pasatiempos favoritos
 
@@ -204,7 +208,33 @@ que se encuentran el arte del dibujo, los videojuegos de combate competitivos, p
 futbol y sobre todo, mi pasión por el simulador de baile Pump It Up.
 
 <img src="./picture/anime/anime-02.png" width="560">
+
+Pensamiento Corto:
+
+Tras la lluvia de la adversidad, la luz del sol en la fortaleza surgirá, iluminando el sendero  
+hacia tus metas. Pero recuerda, el camino aún húmedo por la lluvia conservará los  
+recuerdos y experiencias que se entrelazan con tu vida.
+
+Las nubes remanentes te recordarán la posibilidad de una nueva lluvia que diluirá, o la sombra  
+de la tranquilidad que ocultará el sol del desgaste para que no te detengas. No obstante, no  
+permitas que la sombra de la comodidad te engañe y te impida seguir adelante; úsala solo para  
+descansar, respirar, crear, recordar y mantener vivos tus objetivos o sueños, asegurándote de estar  
+siempre en el camino hacia la felicidad.
+
+<details>
+Despues de la lluvia de la adversidad la luz del sol en la fortaleza llegara para aclararte el camino de tus metas pero recuerda que
+el camino humedo por la lluvia estara presente para tener los recuerdos y experiencias enlazadas a tu vida y experiencia.
+Las nuves restantes te haran tener presente las nueva lluvia que dehuilira o la sombra de la tranquiladad que tapara el sol del agotamiento para no detenerte pero no dejes que la sombra sea de la comodidad y te engañe para no seguir tu camino solo usala para descansar, respirar, leer y tener presente tus objetivos o sueños para estar siempre en el camino de la felicidad.
+</details>
+
+
 <img src="./picture/anime/anime-01.png" width="560">
+
+Durante la tormenta, las gotas de frustración pueden golpearte, pero son parte del proceso para avanzar hacia tus sueños. Protégete bajo el paraguas de la resiliencia, que te guiará hacia tus metas, por más distantes y borrosas que parezcan entre la niebla de la incertidumbre. Aférrate al conocimiento y a las lecciones aprendidas; serán tus fieles compañeros en este viaje. Recuerda que, al dispersarse las nubes, te brindarán un momento de serenidad y calma, permitiendo que la luz del sol del esfuerzo brille y te envuelva en la sombra de la reflexión.
+
+<details>
+Durante la lluvia las gotas de la frustacion te golpearan pero es parte de seguir adelante en tu camino de tus sueños, resguardate en el paraguas de la resiliecia  que te acercara a tus objetivos por mas lejos y confuso se muestren por la neblina de la duda. Aferrate del conocimiento y lo aprendido que te acompañara en tu camino. Recuada que las nubes al dispersarse seran para darte un momento de paz y tranquilidad al dejar mostrar la luz del sol del esfuerzo y para abrazarte en la sombra de la reflexion.
+</details>
 
 
 
