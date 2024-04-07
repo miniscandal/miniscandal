@@ -207,9 +207,7 @@ Estoy dedicando tiempo para reanudar las actividades que más me agradan, entre 
 que se encuentran el arte del dibujo, los videojuegos de combate competitivos, practicar  
 futbol y sobre todo, mi pasión por el simulador de baile Pump It Up.
 
-<img src="./picture/anime/anime-02.png" width="560">
-
-Pensamiento Corto:
+### Pensamiento Corto
 
 Tras la lluvia de la adversidad, la luz del sol en la fortaleza surgirá, iluminando el sendero  
 hacia tus metas. Pero recuerda, el camino aún húmedo por la lluvia conservará los  
@@ -221,24 +219,29 @@ permitas que la sombra de la comodidad te engañe y te impida seguir adelante; �
 descansar, respirar, crear, recordar y mantener vivos tus objetivos o sueños, asegurándote de estar  
 siempre en el camino hacia la felicidad.
 
-<details>
+<!--
 Despues de la lluvia de la adversidad la luz del sol en la fortaleza llegara para aclararte el camino de tus metas pero recuerda que
 el camino humedo por la lluvia estara presente para tener los recuerdos y experiencias enlazadas a tu vida y experiencia.
 Las nuves restantes te haran tener presente las nueva lluvia que dehuilira o la sombra de la tranquiladad que tapara el sol del agotamiento para no detenerte pero no dejes que la sombra sea de la comodidad y te engañe para no seguir tu camino solo usala para descansar, respirar, leer y tener presente tus objetivos o sueños para estar siempre en el camino de la felicidad.
-</details>
+-->
 
+<img src="./picture/anime/anime-02.png" width="560">
+
+### Pensamiento Corto
+
+Durante la tormenta, las gotas de frustración pueden golpearte, pero son parte del proceso  
+para avanzar hacia tus sueños. Protégete bajo el paraguas de la resiliencia, que te guiará  
+hacia tus metas, por más distantes y borrosas que parezcan entre la niebla de la incertidumbre.
+
+Aférrate al conocimiento y a las lecciones aprendidas; serán tus fieles compañeros en este viaje.  
+Recuerda que, al dispersarse las nubes, te brindarán un momento de serenidad y calma, permitiendo  
+que la luz del sol del esfuerzo brille y te envuelva en la sombra de la reflexión.
+
+<!--
+Durante la lluvia las gotas de la frustacion te golpearan pero es parte de seguir adelante en tu camino de tus sueños, resguardate en el paraguas de la resiliecia  que te acercara a tus objetivos por mas lejos y confuso se muestren por la neblina de la duda. Aferrate del conocimiento y lo aprendido que te acompañara en tu camino. Recuada que las nubes al dispersarse seran para darte un momento de paz y tranquilidad al dejar mostrar la luz del sol del esfuerzo y para abrazarte en la sombra de la reflexion.
+-->
 
 <img src="./picture/anime/anime-01.png" width="560">
-
-Durante la tormenta, las gotas de frustración pueden golpearte, pero son parte del proceso para avanzar hacia tus sueños. Protégete bajo el paraguas de la resiliencia, que te guiará hacia tus metas, por más distantes y borrosas que parezcan entre la niebla de la incertidumbre. Aférrate al conocimiento y a las lecciones aprendidas; serán tus fieles compañeros en este viaje. Recuerda que, al dispersarse las nubes, te brindarán un momento de serenidad y calma, permitiendo que la luz del sol del esfuerzo brille y te envuelva en la sombra de la reflexión.
-
-<details>
-Durante la lluvia las gotas de la frustacion te golpearan pero es parte de seguir adelante en tu camino de tus sueños, resguardate en el paraguas de la resiliecia  que te acercara a tus objetivos por mas lejos y confuso se muestren por la neblina de la duda. Aferrate del conocimiento y lo aprendido que te acompañara en tu camino. Recuada que las nubes al dispersarse seran para darte un momento de paz y tranquilidad al dejar mostrar la luz del sol del esfuerzo y para abrazarte en la sombra de la reflexion.
-</details>
-
-
-
-
 
 <!--
            __-----_.                        ________
