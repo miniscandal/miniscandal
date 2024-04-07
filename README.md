@@ -3,7 +3,7 @@
 ## Me conocen como "Minimi"
 ≧◠‿◠≦
 
-![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
+![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -11,16 +11,16 @@
 
 ---
 
-Mi experiencia profesional y formacion académica en el campo de la ingeniería de  
-sistemas computacionales, complementadas con aprendizaje autodidacta y constante  
-crecimiento interpersonal, han forjado de mi un perfil competente.
+Como desarrollador de software, mi formación académica y experiencia laboral, tanto  
+dentro como fuera del ámbito profesional, han forjado en mí un perfil competente.  
+Este perfil se ha enriquecido aún más gracias a un aprendizaje constante que abarca  
+mis habilidades técnicas, personales e interpersonales.
 
-He contribuido con soluciones en respuesta a diversos conflictos en diferentes  
-entidades que explorar y utilizan tecnología emergente.  
-En estas soluciones he evidenciado mi habilidad para colaborar de manera efectiva  
-en equipos multidisciplinarios, aportar ideas creativas y adaptarme con agilidad  
-a nuevas situaciones.
-
+Mi enfoque laboral se basa en el análisis, la investigación, la documentación y la  
+planificación. Estas habilidades me permiten adaptarme con agilidad a nuevas  
+situaciones y desarrollar soluciones prácticas en diversos contextos. He demostrado  
+estas habilidades al aportar ideas efectivas y soluciones tanto en entidades como  
+en proyectos personales.
 
 <img src="./picture/anime/photo-github.jpg" width="560">
 
@@ -38,7 +38,7 @@ con las personas en mi entorno social.
 ✰  
 Las competencias que he adquirido, tanto técnicas como interpersonales me capacitan  
 para gestionar situaciones y desafíos con profesionalismo. Mi finalidad es mejorar  
-constantemente en el dinámico campo de la informática.
+constantemente en el dinámico campo del desarrollo de software.
 
 ---
 
@@ -51,7 +51,7 @@ constantemente en el dinámico campo de la informática.
 ## En que me estoy especializando
 ≧◠‿◠≦
 
-![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
+![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)  
 ![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
@@ -177,7 +177,7 @@ con logro mis responsabilidades en los proyectos en los que he colaborado.
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
 ![GPT-4 Bing IA](https://img.shields.io/badge/GPT4_Bing_IA-%23F7C8E0.svg?style=for-the-badge&logoColor=white)  
-![Functional Analyst](https://img.shields.io/badge/functional_analyst-%23FF8F8F.svg?style=for-the-badge)
+![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Preact](https://img.shields.io/badge/preact-%23007ACC.svg?style=for-the-badge&logo=preact&logoColor=white)
 
 
