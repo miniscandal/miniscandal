@@ -209,15 +209,9 @@ futbol y sobre todo, mi pasión por el simulador de baile Pump It Up.
 
 ### Pensamiento Corto
 
-Tras la lluvia de la adversidad, la luz del sol en la fortaleza surgirá, iluminando el sendero  
-hacia tus metas. Pero recuerda, el camino aún húmedo por la lluvia conservará los  
-recuerdos y experiencias que se entrelazan con tu vida.
+Tras la lluvia de la adversidad, la luz del sol en la fortaleza surgirá, iluminando el sendero hacia tus metas y el camino aún húmedo por la lluvia conservará los recuerdos y experiencias que se entrelazan con tu vida.
 
-Las nubes remanentes te recordarán la posibilidad de una nueva lluvia que diluirá, o la sombra  
-de la tranquilidad que ocultará el sol del desgaste para que no te detengas. No obstante, no  
-permitas que la sombra de la comodidad te engañe y te impida seguir adelante; úsala solo para  
-descansar, respirar, crear, recordar y mantener vivos tus objetivos o sueños, asegurándote de estar  
-siempre en el camino hacia la felicidad.
+Las nubes remanentes te recordarán la posibilidad de una nueva lluvia que diluirá, o la sombra de la tranquilidad que ocultará el sol del desgaste para que no te detengas. No obstante, no permitas que la sombra de la comodidad te engañe y te impida seguir adelante; úsala solo para descansar, respirar, recordar y mantener vivos tus objetivos o sueños, asegurándote de estar siempre en el camino hacia la felicidad.
 
 <!--
 Despues de la lluvia de la adversidad la luz del sol en la fortaleza llegara para aclararte el camino de tus metas pero recuerda que
