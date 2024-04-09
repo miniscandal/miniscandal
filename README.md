@@ -10,15 +10,12 @@
 
 
 ---
+Como desarrollador de software, mi principal interés radica en la implementación de soluciones  
+tecnológicas. Confío en mi capacidad y habilidades para adaptarme en diversos contextos de manera  
+profesional y competente.
 
-Como desarrollador de software, mi formación académica y experiencia laboral, tanto  
-dentro como fuera del ámbito profesional, han forjado en mí un perfil competente.  
-Este perfil se ha enriquecido aún más gracias a un aprendizaje constante que abarca  
-mis habilidades técnicas, personales e interpersonales.
-
-Mi enfoque laboral se basa en el análisis, la investigación, la documentación y la  
-planificación. Estas habilidades me permiten adaptarme con agilidad a nuevas  
-situaciones y desarrollar soluciones prácticas en diversos contextos.
+Mi perfil se caracteriza por un aprendizaje y crecimiento constante. Cada avance, por más  
+sutil que sea, lo valoro para enriquecer mis habilidades técnicas, personales e interpersonales.
 
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/cv_oscar_gonzalez.pdf)
 
@@ -26,20 +23,15 @@ situaciones y desarrollar soluciones prácticas en diversos contextos.
 <img src="./picture/anime/photo-github.jpg" width="560">
 
 ✰  
-Mis habilidades técnicas en análisis, planificación, diseño y optimización me  
-hacen capaz de identificar y solucionar problemas eficazmente mediante sistemas  
-informáticos.
+Gracias a mis competencias técnicas en el análisis, planificación, diseño y optimización  
+tengo la capacidad de detectar y resolver problemas de manera eficiente utilizando  
+sistemas informáticos.
 
 ✰  
 Mis habilidades interpersonales incluyen trabajo en equipo, adaptabilidad, escucha  
 activa ,comunicación asertiva, capacidad de resolución, resiliencia, y metacognición.  
 Estas habilidades facilitan mi interacción de manera amigable, positiva y cordial  
 con las personas en mi entorno social.
-
-✰  
-Las competencias que he adquirido, tanto técnicas como interpersonales me capacitan  
-para gestionar situaciones y desafíos con profesionalismo. Mi finalidad es mejorar  
-constantemente en el dinámico campo del desarrollo de software.
 
 ---
 
@@ -190,10 +182,9 @@ de mis roles en los equipos de proyecto.
 Quiero disfrutar aprendiendo y mejorando tanto en lo personal como en lo laboral  
 mientras aspiro a convertirme en un Staff Software Engineer.
 
-Espero ser una fuente de inspiración y un mentor para el equipo de ingenieros en  
-formación, guiándolos en su crecimiento profesional. Creo que al hacer esto, no solo  
-avanzaré en mi carrera profesional, sino que también enriqueceré aspectos  
-significativos de mi vida.
+Espero ser una fuente de inspiración y un mentor para el equipo de ingenieros en formación  
+guiándolos en su crecimiento profesional. Creo que al hacer esto, no solo avanzaré en mi carrera  
+profesional, sino que también enriqueceré aspectos significativos de mi vida.
 
 ## Explorando mis pasatiempos favoritos
 
@@ -209,9 +200,15 @@ futbol y sobre todo, mi pasión por el simulador de baile Pump It Up.
 
 ### Pensamiento Corto
 
-Tras la lluvia de la adversidad, la luz del sol en la fortaleza surgirá, iluminando el sendero hacia tus metas y el camino aún húmedo por la lluvia conservará los recuerdos y experiencias que se entrelazan con tu vida.
+Tras la lluvia de la adversidad, la luz del sol en la fortaleza surgirá para iluminar el sendero  
+hacia tus metas, el camino aún húmedo por la lluvia conservará los recuerdos y experiencias  
+que se entrelazan con tu vida.
 
-Las nubes remanentes te recordarán la posibilidad de una nueva lluvia que diluirá, o la sombra de la tranquilidad que ocultará el sol del desgaste para que no te detengas. No obstante, no permitas que la sombra de la comodidad te engañe y te impida seguir adelante; úsala solo para descansar, respirar, recordar y mantener vivos tus objetivos o sueños, asegurándote de estar siempre en el camino hacia la felicidad.
+Las nubes remanentes te recordarán la posibilidad de una nueva lluvia que diluirá o la sombra  
+de la tranquilidad que ocultará el sol del desgaste para que no te detengas. No obstante no permitas  
+que la sombra de la comodidad te engañe y te impida seguir adelante; úsala solo para  
+respirar, recordar y mantener vivos tus objetivos o sueños, asegurándote de estar siempre en el camino  
+hacia la felicidad.
 
 <!--
 Despues de la lluvia de la adversidad la luz del sol en la fortaleza llegara para aclararte el camino de tus metas pero recuerda que
@@ -228,7 +225,7 @@ para avanzar hacia tus sueños. Protégete bajo el paraguas de la resiliencia, q
 hacia tus metas, por más distantes y borrosas que parezcan entre la niebla de la incertidumbre.
 
 Aférrate al conocimiento y a las lecciones aprendidas; serán tus fieles compañeros en este viaje.  
-Recuerda que, al dispersarse las nubes, te brindarán un momento de serenidad y calma, permitiendo  
+Recuerda que al dispersarse las nubes te brindarán un momento de serenidad y calma, permitiendo  
 que la luz del sol del esfuerzo brille y te envuelva en la sombra de la reflexión.
 
 <!--
