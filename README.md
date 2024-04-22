@@ -1,4 +1,4 @@
-# ¡Hola ✌! <img src="./picture/anime/anime-05.png" width="60">
+# ¡Hola ✌! <img src="./resources/picture/anime/anime-05.png" width="60">
 
 ## Me conocen como "Minimi"
 ≧◠‿◠≦
@@ -20,7 +20,7 @@ sutil que sea, lo valoro para enriquecer mis habilidades técnicas, personales e
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/cv_oscar_gonzalez.pdf)
 
 
-<img src="./picture/anime/photo-github.jpg" width="560">
+<img src="./resources/picture/anime/manga-01.png" width="560">
 
 ✰  
 Gracias a mis competencias técnicas en el análisis, planificación, diseño y optimización  
@@ -97,7 +97,7 @@ gracias a los esfuerzos de desarrolladores previos.
 
 #### Diagrama UML
 
-<img src="./picture/project/entity-relationship.drawio.svg" width="540">
+<img src="./resources/picture/project/entity-relationship.drawio.svg" width="540">
 
 
 #### Momento actual
@@ -216,7 +216,7 @@ el camino humedo por la lluvia estara presente para tener los recuerdos y experi
 Las nuves restantes te haran tener presente las nueva lluvia que dehuilira o la sombra de la tranquiladad que tapara el sol del agotamiento para no detenerte pero no dejes que la sombra sea de la comodidad y te engañe para no seguir tu camino solo usala para descansar, respirar, leer y tener presente tus objetivos o sueños para estar siempre en el camino de la felicidad.
 -->
 
-<img src="./picture/anime/anime-02.png" width="560">
+<img src="./resources/picture/anime/anime-02.png" width="560">
 
 ### Pensamiento Corto
 
@@ -232,7 +232,7 @@ que la luz del sol del esfuerzo brille y te envuelva en la sombra de la reflexi�
 Durante la lluvia las gotas de la frustacion te golpearan pero es parte de seguir adelante en tu camino de tus sueños, resguardate en el paraguas de la resiliecia  que te acercara a tus objetivos por mas lejos y confuso se muestren por la neblina de la duda. Aferrate del conocimiento y lo aprendido que te acompañara en tu camino. Recuada que las nubes al dispersarse seran para darte un momento de paz y tranquilidad al dejar mostrar la luz del sol del esfuerzo y para abrazarte en la sombra de la reflexion.
 -->
 
-<img src="./picture/anime/anime-01.png" width="560">
+<img src="./resources/picture/anime/anime-01.png" width="560">
 
 <!--
            __-----_.                        ________
