@@ -10,17 +10,21 @@
 
 
 ---
-Como desarrollador de software, mi principal interés radica en la implementación de soluciones  
-tecnológicas. Confío en mi capacidad y habilidades para adaptarme en diversos contextos de manera  
-profesional y competente.
+Desarrollador de software con experiencia en el análisis, diseño e implementación de soluciones  
+tecnológicas. Enfocado en el área de aplicaciones web en relación con el backend pero con un  
+interés especial por el mundo de los sistemas embebidos.
 
-Mi perfil se caracteriza por un aprendizaje y crecimiento constante. Cada avance, por más  
-sutil que sea, lo valoro para enriquecer mis habilidades técnicas, personales e interpersonales.
+A través de una reflexión personal, he llegado a valorar mi capacidad de adaptabilidad e investigación  
+cualidades que facilitan mi aprendizaje, reaprendizaje y profundización constante en conceptos y en  
+tecnologías, permitiéndome desarrollar soluciones prácticas en diversos contextos.
+
+Mi perfil se caracteriza por un aprendizaje y crecimiento constante. Cada avance, por más sutil que sea  
+lo valoro para mejorar mis habilidades técnicas, personales e interpersonales.
 
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/cv_oscar_gonzalez.pdf)
 
 
-<img src="./resources/picture/anime/manga-01.png" width="560">
+<img src="./resources/picture/anime/manga-01-min.png" width="560">
 
 ✰  
 Gracias a mis competencias técnicas en el análisis, planificación, diseño y optimización  
