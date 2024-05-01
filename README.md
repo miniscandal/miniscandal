@@ -3,7 +3,7 @@
 ## Me conocen como "Minimi"
 ≧◠‿◠≦
 
-![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
+![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -48,7 +48,7 @@ con las personas en mi entorno social.
 ## En que me estoy especializando
 ≧◠‿◠≦
 
-![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
+![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)  
 ![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
@@ -178,7 +178,7 @@ de mis roles en los equipos de proyecto.
 ![Mosquitto](https://img.shields.io/badge/Mosquitto-%233C5280.svg?style=for-the-badge)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
 ![GPT-4 Bing IA](https://img.shields.io/badge/GPT4_Bing_IA-%23F7C8E0.svg?style=for-the-badge&logoColor=white)  
-![Requirements analysis](https://img.shields.io/badge/requirements_analysis-%23FF8F8F.svg?style=for-the-badge)
+![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Preact](https://img.shields.io/badge/preact-%23007ACC.svg?style=for-the-badge&logo=preact&logoColor=white)
 
 ### Hacia qué objetivos dirijo mi crecimiento
