@@ -21,7 +21,7 @@ tecnologías, permitiéndome desarrollar soluciones prácticas en diversos conte
 Mi perfil se caracteriza por un aprendizaje y crecimiento constante. Cada avance, por más sutil que sea  
 lo valoro para mejorar mis habilidades técnicas, personales e interpersonales.
 
-[![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/cv_oscar_gonzalez.pdf)
+[![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/files/cv_oscar_gonzalez.pdf)
 
 
 <img src="./resources/picture/anime/manga-01-min.png" width="560">
