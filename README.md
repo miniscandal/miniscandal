@@ -12,7 +12,7 @@
 ---
 Desarrollador de software con experiencia en el análisis, diseño e implementación de soluciones  
 tecnológicas. Enfocado en el área de aplicaciones web en relación con el backend pero con un  
-interés especial por el mundo de los sistemas embebidos.
+interés especial por el area en sistemas embebidos.
 
 A través de una reflexión personal, he llegado a valorar mi capacidad de adaptabilidad e investigación  
 cualidades que facilitan mi aprendizaje, reaprendizaje y profundización constante en conceptos y en  
@@ -24,18 +24,7 @@ lo valoro para mejorar mis habilidades técnicas, personales e interpersonales.
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/files/cv_oscar_gonzalez.pdf)
 
 
-<img src="./resources/picture/anime/manga-01-min.png" width="560">
-
-✰  
-Gracias a mis competencias técnicas en el análisis, planificación, diseño y optimización  
-tengo la capacidad de detectar y resolver problemas de manera eficiente utilizando  
-sistemas informáticos.
-
-✰  
-Mis habilidades interpersonales incluyen trabajo en equipo, adaptabilidad, escucha  
-activa ,comunicación asertiva, capacidad de resolución, resiliencia, y metacognición.  
-Estas habilidades facilitan mi interacción de manera amigable, positiva y cordial  
-con las personas en mi entorno social.
+<img src="./resources/picture/anime/manga-02.png" width="560">
 
 ---
 
@@ -119,11 +108,10 @@ surgir en las entidades interesadas en mi perfil profesional.
 
 ≧◠‿◠≦
 
-A lo largo de mi carrera educativa y profesional, me he enfrentado a retos que me  
-han permitido familiarizarme con una amplia gama de herramientas y conceptos técnicos.  
-Aunque no me considero un experto absoluto, mi experiencia práctica me ha brindado  
-una comprensión profunda de su relevancia y la manera óptima de aplicarlos para  
-abordar diversas problemáticas.
+Durante mi formación academica y ambito laboral, he enfrentado retos que me han permitido  
+conocer diversas herramientas y conceptos técnicos. No me veo como un experto  
+total, pero mi experiencia me ha dado una comprensión de su importancia y cómo aplicarlos  
+para resolver problemas.
 
 Mis competencias técnicas, valores personales e interpersonales han sido esenciales  
 para adaptarme eficazmente a nuevos entornos, así como para desempeñar y aprender  
