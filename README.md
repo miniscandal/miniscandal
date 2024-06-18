@@ -70,6 +70,7 @@ Esta propuesta tiene el potencial de operar como un microservicio, estaría suje
 al sistema central de la compañía que ya ha sido establecido y está en operación  
 gracias a los esfuerzos de desarrolladores previos.
 
+
 #### Principales tecnologías y conceptos
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -117,9 +118,9 @@ Mis competencias técnicas, valores personales e interpersonales han sido esenci
 para adaptarme eficazmente a nuevos entornos, así como para desempeñar y aprender  
 de mis roles en los equipos de proyecto.
 
-### En que he tenido experiencia práctica
+<!--
 
-<!-- badge personalizado -->
+### En que he tenido experiencia práctica
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -169,6 +170,9 @@ de mis roles en los equipos de proyecto.
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Preact](https://img.shields.io/badge/preact-%23007ACC.svg?style=for-the-badge&logo=preact&logoColor=white)
 
+-->
+
+
 ### Hacia qué objetivos dirijo mi crecimiento
 
 Quiero disfrutar aprendiendo y mejorando tanto en lo personal como en lo laboral  
@@ -190,68 +194,4 @@ Estoy dedicando tiempo para reanudar las actividades que más me agradan, entre 
 que se encuentran el arte del dibujo, los videojuegos de combate competitivos, practicar  
 futbol y sobre todo, mi pasión por el simulador de baile Pump It Up.
 
-### Pensamiento Corto
-
-Tras la lluvia de la adversidad, la luz del sol en la fortaleza surgirá para iluminar el sendero  
-hacia tus metas, el camino aún húmedo por la lluvia conservará los recuerdos y experiencias  
-que se entrelazan con tu vida.
-
-Las nubes remanentes te recordarán la posibilidad de una nueva lluvia que diluirá o la sombra  
-de la tranquilidad que ocultará el sol del desgaste para que no te detengas. No obstante no permitas  
-que la sombra de la comodidad te engañe y te impida seguir adelante; úsala solo para  
-respirar, recordar y mantener vivos tus objetivos o sueños, asegurándote de estar siempre en el camino  
-hacia la felicidad.
-
-<!--
-Despues de la lluvia de la adversidad la luz del sol en la fortaleza llegara para aclararte el camino de tus metas pero recuerda que
-el camino humedo por la lluvia estara presente para tener los recuerdos y experiencias enlazadas a tu vida y experiencia.
-Las nuves restantes te haran tener presente las nueva lluvia que dehuilira o la sombra de la tranquiladad que tapara el sol del agotamiento para no detenerte pero no dejes que la sombra sea de la comodidad y te engañe para no seguir tu camino solo usala para descansar, respirar, leer y tener presente tus objetivos o sueños para estar siempre en el camino de la felicidad.
--->
-
 <img src="./resources/picture/anime/anime-02.png" width="560">
-
-### Pensamiento Corto
-
-Durante la tormenta, las gotas de frustración pueden golpearte, pero son parte del proceso  
-para avanzar hacia tus sueños. Protégete bajo el paraguas de la resiliencia, que te guiará  
-hacia tus metas, por más distantes y borrosas que parezcan entre la niebla de la incertidumbre.
-
-Aférrate al conocimiento y a las lecciones aprendidas; serán tus fieles compañeros en este viaje.  
-Recuerda que al dispersarse las nubes te brindarán un momento de serenidad y calma, permitiendo  
-que la luz del sol del esfuerzo brille y te envuelva en la sombra de la reflexión.
-
-<!--
-Durante la lluvia las gotas de la frustacion te golpearan pero es parte de seguir adelante en tu camino de tus sueños, resguardate en el paraguas de la resiliecia  que te acercara a tus objetivos por mas lejos y confuso se muestren por la neblina de la duda. Aferrate del conocimiento y lo aprendido que te acompañara en tu camino. Recuada que las nubes al dispersarse seran para darte un momento de paz y tranquilidad al dejar mostrar la luz del sol del esfuerzo y para abrazarte en la sombra de la reflexion.
--->
-
-<img src="./resources/picture/anime/anime-01.png" width="560">
-
-<!--
-           __-----_.                        ________
-          /  \      \           o  O  O   _(        )__
-         /    |  |   \_---_   o._.      _(             )_
-        |     |            \   | |""""(_   Hello World!  )
-        |     |             |@ | |    (_               _)
-         \___/   ___       /   | |      (__          _)
-           \____(____\___/     | |         (________)
-           |__|                | |          |
-           /   \-_             | |         |'
-         /      \_ "__ _       !_!--v---v--"
-        /         "|  |>)      |""""""""|
-       |          _|  | ._--""||        |
-       _\_____________|_|_____||________|_
-      /                                   \
-     /_____________________________________\
-     /                                     \
-    /_______________________________________\
-    /                                       \
-   /_________________________________________\
-        {                               }
-        <_______________________________|
-        |                               >
-        {_______________________________|               ________
-        <                               }              / MINIMI \
-        |_______________________________|             /__________\
-\|/       \\/             \||//           |//                       \|/    |/
-
---->
