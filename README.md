@@ -105,7 +105,7 @@ trabajando a mi antiguo empleador, mi proposito es demostrar mi habilidad para
 analizar, diseñar y llevar a cabo soluciones en respuesta a los desafíos que puedan  
 surgir en las entidades interesadas en mi perfil profesional.
 
-## Evolución de mi perfil
+## Evolución de mi carrera y habilidades
 
 ≧◠‿◠≦
 
