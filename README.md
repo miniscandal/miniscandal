@@ -5,8 +5,8 @@
 
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
-![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
 
 
 ---
@@ -50,7 +50,7 @@ habilidades técnicas, personales e interpersonales.
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
-
+![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
 
 
 
@@ -87,12 +87,11 @@ gracias a los esfuerzos de desarrolladores previos.
 ![NoSQL](https://img.shields.io/badge/NoSQL-%23424769.svg?style=for-the-badge)
 ![ArangoDB](https://img.shields.io/badge/ArangoDB-%23F29111.svg?style=for-the-badge&logo=arangodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%2300aa00.svg?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-%23f2c94e.svg?style=for-the-badge)
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GPT-4 Bing IA](https://img.shields.io/badge/GPT4_Bing_IA-%23F7C8E0.svg?style=for-the-badge&logoColor=white)
-
+![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
 
 ### Diagrama entidad relación
 
