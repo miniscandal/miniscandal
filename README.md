@@ -47,7 +47,7 @@ tecnicas, personales e interpersonales
 
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
-![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
+![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)  
 ![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
@@ -183,7 +183,9 @@ de mis roles en los equipos de proyecto.
 -->
 
 
-### Hacia qué objetivos dirijo mi crecimiento
+## Hacia qué objetivos me dirijo
+≧◠‿◠≦
+
 
 Quiero disfrutar aprendiendo y mejorando tanto en lo personal como en lo laboral  
 mientras aspiro a convertirme en Principal Software Engineer.
