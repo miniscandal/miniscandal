@@ -3,23 +3,31 @@
 ## Me conocen como "Minimi"
 ≧◠‿◠≦
 
+![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
-![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 
 
 ---
-Desarrollador de software con experiencia en el análisis, diseño e implementación de soluciones  
-tecnológicas. Enfocado en el área de aplicaciones web en relación con el backend pero con un  
-interés especial por el area en sistemas embebidos.
+Desarrollador de software con más de tres años de experiencia, donde he ejercido  
+análisis de requisitos, análisis funcional, diseño y administración de bases de datos.  
+Mi enfoque principal es la especialización en relacion con el backend.
 
-A través de una reflexión personal, he llegado a valorar mi capacidad de adaptabilidad e investigación  
-cualidades que facilitan mi aprendizaje, reaprendizaje y profundización constante en conceptos y en  
-tecnologías, permitiéndome desarrollar soluciones prácticas en diversos contextos.
+Mediante una reflexión personal, he aprendido a valorar mis habilidades en relacion  
+con adaptabilidad, investigación y creatividad. Estas cualidades me han permitido  
+aprender de manera continua, asimilar nuevos conceptos y proponer soluciones  
+efectivas en diversos contextos.
 
-Mi perfil se caracteriza por un aprendizaje y crecimiento constante. Cada avance, por más sutil que sea  
-lo valoro para mejorar mis habilidades técnicas, personales e interpersonales.
+Refuerzo mi carrera profecional con un interés particular en los sistemas  
+embebidos y la electrónica, asi que espero y planeo cursar una ingeniería relacionada  
+con esta area.
+
+Parte de mi caracter es apreciar cada progreso y contratiempo por mas sutil  
+que sea. Pienso en la experiencia adquirida para mejorar mis habilidades  
+tecnicas, personales e interpersonales
+
+
 
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/files/cv_oscar_gonzalez.pdf)
 
@@ -37,14 +45,14 @@ lo valoro para mejorar mis habilidades técnicas, personales e interpersonales.
 ## En que me estoy especializando
 ≧◠‿◠≦
 
-![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
-![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)  
-![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
+![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
+![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)
+![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
 ![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
-![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
 
 
 
@@ -75,7 +83,7 @@ gracias a los esfuerzos de desarrolladores previos.
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23F637E3.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![API Rest](https://img.shields.io/badge/API%20Rest-%23FF6C37.svg?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)  
@@ -105,20 +113,20 @@ trabajando a mi antiguo empleador, mi proposito es demostrar mi habilidad para
 analizar, diseñar y llevar a cabo soluciones en respuesta a los desafíos que puedan  
 surgir en las entidades interesadas en mi perfil profesional.
 
+
+<!--
 ## Evolución de mi carrera y habilidades
 
 ≧◠‿◠≦
 
-Durante mi formación academica y ambito laboral, he enfrentado retos que me han permitido  
-conocer diversas herramientas y conceptos técnicos. No me veo como un experto  
-total, pero mi experiencia me ha dado una comprensión de su importancia y cómo aplicarlos  
-para resolver problemas.
+Durante mi formación academica y ambito laboral, he enfrentado retos que me han  
+permitido conocer diversas herramientas y conceptos técnicos. No me veo como un  
+experto total, pero mi experiencia me ha dado una comprensión de su importancia y cómo  
+aplicarlos para resolver problemas.
 
 Mis competencias técnicas, valores personales e interpersonales han sido esenciales  
 para adaptarme eficazmente a nuevos entornos, así como para desempeñar y aprender  
 de mis roles en los equipos de proyecto.
-
-<!--
 
 ### En que he tenido experiencia práctica
 
@@ -169,6 +177,8 @@ de mis roles en los equipos de proyecto.
 ![GPT-4 Bing IA](https://img.shields.io/badge/GPT4_Bing_IA-%23F7C8E0.svg?style=for-the-badge&logoColor=white)  
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![Preact](https://img.shields.io/badge/preact-%23007ACC.svg?style=for-the-badge&logo=preact&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23F637E3.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 
 -->
 
@@ -176,22 +186,22 @@ de mis roles en los equipos de proyecto.
 ### Hacia qué objetivos dirijo mi crecimiento
 
 Quiero disfrutar aprendiendo y mejorando tanto en lo personal como en lo laboral  
-mientras aspiro a convertirme en un Staff Software Engineer.
+mientras aspiro a convertirme en Principal Software Engineer.
 
-Espero ser una fuente de inspiración y un mentor para el equipo de ingenieros en formación  
-guiándolos en su crecimiento profesional. Creo que al hacer esto, no solo avanzaré en mi carrera  
-profesional, sino que también enriqueceré aspectos significativos de mi vida.
+Quiero ser una fuente de inspiración y un mentor para el equipo de ingenieros  
+en formación. Pienso que al hacer esto, no solo avanzaré en mi carrera profesional  
+sino que también enriqueceré aspectos importantes de mi vida.
 
 ## Explorando mis pasatiempos favoritos
 
 ≧◠‿◠≦
 
-Soy un gran fanático del anime y las series coreanas. No solo las disfruto como una    
-forma de entretenimiento, sino que también me gusta apreciarlas desde una perspectiva  
-más profunda y reflexiva.
+Soy un gran fanático del anime y las series coreanas. No solo las disfruto como  
+una forma de entretenimiento, sino que también me gusta apreciarlas desde una  
+perspectiva más profunda y reflexiva.
 
-Estoy dedicando tiempo para reanudar las actividades que más me agradan, entre las  
-que se encuentran el arte del dibujo, los videojuegos de combate competitivos, practicar  
-futbol y sobre todo, mi pasión por el simulador de baile Pump It Up.
+Estoy dedicando tiempo para reanudar las actividades que más me agradan, entre  
+las que se encuentran dibujar, los videojuegos de combate competitivos, practicar  
+futbol y sobre todo, bailar en el simulador Pump It Up.
 
 <img src="./resources/picture/anime/anime-02.png" width="560">
