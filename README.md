@@ -10,24 +10,21 @@
 
 
 ---
-Desarrollador de software con más de tres años de experiencia, donde he ejercido  
-análisis de requisitos, análisis funcional, diseño y administración de bases de datos.  
-Mi enfoque principal es la especialización en relacion con el backend.
+Desarrollador de software con más de tres años de experiencia, durante los cuales he  
+aportado soluciones mediante el análisis de requisitos, la administración de bases  
+de datos, el análisis funcional y el diseño. Mi especialización principal es el backend.
 
-Mediante una reflexión personal, he aprendido a valorar mis habilidades en relacion  
-con adaptabilidad, investigación y creatividad. Estas cualidades me han permitido  
-aprender de manera continua, asimilar nuevos conceptos y proponer soluciones  
-efectivas en diversos contextos.
+Mediante reflexiones personales, he aprendido a valorar mis habilidades en  
+adaptabilidad, investigación y creatividad. Estas cualidades me han permitido mantener  
+un aprendizaje continuo, asimilar nuevos conceptos y aportar soluciones efectivas en  
+diversos contextos.
 
-Refuerzo mi carrera profecional con un interés particular en los sistemas  
-embebidos y la electrónica, asi que espero y planeo cursar una ingeniería relacionada  
-con esta area.
+Fortalezco mi carrera profesional con un interés particular en sistemas  
+embebidos y electrónica, y planeo cursar una ingeniería relacionada con esta área.
 
-Parte de mi caracter es apreciar cada progreso y contratiempo por mas sutil  
-que sea. Pienso en la experiencia adquirida para mejorar mis habilidades  
-tecnicas, personales e interpersonales
-
-
+Una parte fundamental de mi carácter es valorar cada avance y desafío, por más  
+sutiles que sean. Utilizo la experiencia adquirida para mejorar continuamente mis  
+habilidades técnicas, personales e interpersonales.
 
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/files/cv_oscar_gonzalez.pdf)
 
