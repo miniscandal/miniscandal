@@ -76,7 +76,7 @@ al sistema central de la compañía que ya ha sido establecido y está en operac
 gracias a los esfuerzos de desarrolladores previos.
 
 
-#### Principales tecnologías y conceptos
+### Principales tecnologías y conceptos
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
@@ -94,12 +94,12 @@ gracias a los esfuerzos de desarrolladores previos.
 ![GPT-4 Bing IA](https://img.shields.io/badge/GPT4_Bing_IA-%23F7C8E0.svg?style=for-the-badge&logoColor=white)
 
 
-#### Diagrama UML
+### Diagrama entidad relación
 
-<img src="./resources/picture/project/entity-relationship.drawio.svg" width="540">
+<img src="./resources/picture/project/entity-relationship.drawio.png" width="560">
 
 
-#### Momento actual
+### Momento actual
 
 Aunque no tengo una relación laboral actual con la empresa, estoy creando un entorno  
 inspirado en el necesario para este software, respetando la privacidad y sin comprometer  
