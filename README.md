@@ -10,9 +10,22 @@
 
 
 ---
-Desarrollador de software con más de tres años de experiencia, durante los cuales he  
-aportado soluciones mediante el análisis de requisitos, la administración de bases  
-de datos, el análisis funcional y el diseño. Mi especialización principal es el backend.
+Desarrollador de software con más de tres años de experiencia
+
+Especializado en backend
+
+
+[![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/files/cv_oscar_gonzalez.pdf)
+
+
+<img src="./resources/picture/anime/manga-02.png" width="560">
+
+## Experiencia Profesional
+≧◠‿◠≦
+
+Tengo más de tres años de experiencia, durante los cuales he aportado  
+soluciones mediante el análisis de requisitos, la administración de bases  
+de datos, el análisis funcional y el diseño de software.
 
 Mediante reflexiones personales, he aprendido a valorar mis habilidades en  
 adaptabilidad, investigación y creatividad. Estas cualidades me han permitido mantener  
@@ -26,12 +39,9 @@ Una parte fundamental de mi carácter es valorar cada avance y desafío, por má
 sutiles que sean. Utilizo la experiencia adquirida para mejorar continuamente mis  
 habilidades técnicas, personales e interpersonales.
 
-[![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/files/cv_oscar_gonzalez.pdf)
 
-
-<img src="./resources/picture/anime/manga-02.png" width="560">
-
----
+## Contacto Profesional
+≧◠‿◠≦
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3scar-gonzalez-naho/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscar01dev@gmail.com)
@@ -39,33 +49,42 @@ habilidades técnicas, personales e interpersonales.
 <!-- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -->
 <!-- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -->
 
-## En que me estoy especializando
+## Especialización
 ≧◠‿◠≦
 
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
 ![backend](https://img.shields.io/badge/backend-%23EEF296.svg?style=for-the-badge)  
 ![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
-![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Microservices Architecture](https://img.shields.io/badge/Microservices%20Architecture-%230ba5be.svg?style=for-the-badge)  
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![spring_boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-%23596FB7.svg?style=for-the-badge)
 
 
 
-## Mejorando y adquiriendo habilidades
+## Proyecto en Desarrollo
 
 ≧◠‿◠≦
+
+### Microservicio para Gestión de Garantías de Telefonía
 
 Actualmente, estoy invirtiendo tiempo y dedicación en este proyecto para mejorar  
 mis habilidades y ampliar mi portafolio personal.
 
-### Microservicio para garantías de telefonia
+### Descripción
 
 Durante mi trabajo en una distribuidora de telefonía, identifiqué una oportunidad  
-para mejorar la gestión de garantías de dispositivos móviles. Observé que un sistema  
-de software podría hacer más eficiente el control de las garantías.
+para mejorar la gestión de garantías de dispositivos móviles. Identifique una solucion  
+mediante un sistema de software para hacer más eficiente el control de estas garantías.
+
+### Objetivo
+Ofrecer una solución eficiente y escalable que simplifique la asignación de  
+responsabilidades y mejore la gestión de garantías de dispositivos móviles, aprovechando  
+mi experiencia previa y conocimiento del sistema interno.
+
+### Beneficios Potenciales:
 
 Este sistema facilitaría el seguimiento preciso de los dispositivos que están bajo  
 garantía, simplificando así la asignación de responsabilidades respecto a su ubicación  
@@ -76,7 +95,7 @@ al sistema central de la compañía que ya ha sido establecido y está en operac
 gracias a los esfuerzos de desarrolladores previos.
 
 
-### Principales tecnologías y conceptos
+### Principales Tecnologías y Conceptos Para Este Desarrollo
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
@@ -98,7 +117,7 @@ gracias a los esfuerzos de desarrolladores previos.
 <img src="./resources/picture/project/entity-relationship.drawio.png" width="560">
 
 
-### Momento actual
+### Estado Actual
 
 Aunque no tengo una relación laboral actual con la empresa, estoy creando un entorno  
 inspirado en el necesario para este software, respetando la privacidad y sin comprometer  
@@ -179,7 +198,7 @@ de mis roles en los equipos de proyecto.
 -->
 
 
-## Hacia qué objetivos me dirijo
+## Objetivos Personales
 ≧◠‿◠≦
 
 
@@ -190,7 +209,7 @@ Quiero ser una fuente de inspiración y un mentor para el equipo de ingenieros
 en formación. Pienso que al hacer esto, no solo avanzaré en mi carrera profesional  
 sino que también enriqueceré aspectos importantes de mi vida.
 
-## Explorando mis pasatiempos favoritos
+## Pasatiempos Favoritos
 
 ≧◠‿◠≦
 
