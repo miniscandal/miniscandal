@@ -10,9 +10,11 @@
 
 
 ---
-Desarrollador de software con más de tres años de experiencia
-
+Desarrollador de software con más de tres años de experiencia  
 Especializado en backend
+
+＼_ﾍ(ω｀●) ~匸P  
+
 
 
 [![Explorar mi CV](https://img.shields.io/badge/EXPLORAR_MI_CV-%23ffb2c7.svg?style=for-the-badge)](./resources/files/cv_oscar_gonzalez.pdf)
@@ -84,7 +86,7 @@ Ofrecer una solución eficiente y escalable que simplifique la asignación de
 responsabilidades y mejore la gestión de garantías de dispositivos móviles, aprovechando  
 mi experiencia previa y conocimiento del sistema interno.
 
-### Beneficios Potenciales:
+### Beneficios Potenciales
 
 Este sistema facilitaría el seguimiento preciso de los dispositivos que están bajo  
 garantía, simplificando así la asignación de responsabilidades respecto a su ubicación  
@@ -95,7 +97,10 @@ al sistema central de la compañía que ya ha sido establecido y está en operac
 gracias a los esfuerzos de desarrolladores previos.
 
 
-### Tecnologías y Conceptos Para Este Desarrollo
+### Tecnologías y Conceptos
+
+Estas son las tecnologías, herramientas y conceptos que se utilizarán para avanzar  
+en el desarrollo de este proyecto.
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
@@ -114,7 +119,7 @@ gracias a los esfuerzos de desarrolladores previos.
 
 ### Diagrama Entidad Relación
 
-<img src="./resources/picture/project/entity-relationship.drawio.png" width="560">
+<img src="./resources/picture/project/entity-relationship.drawio.svg" width="520">
 
 
 ### Estado Actual
@@ -221,4 +226,4 @@ Estoy dedicando tiempo para reanudar las actividades que más me agradan, entre
 las que se encuentran dibujar, los videojuegos de combate competitivos, practicar  
 futbol y sobre todo, bailar en el simulador Pump It Up.
 
-<img src="./resources/picture/anime/anime-02.png" width="560">
+<img src="./resources/picture/anime/anime-02.png" width="520">
