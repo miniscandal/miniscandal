@@ -95,7 +95,7 @@ al sistema central de la compañía que ya ha sido establecido y está en operac
 gracias a los esfuerzos de desarrolladores previos.
 
 
-### Principales Tecnologías y Conceptos Para Este Desarrollo
+### Tecnologías y Conceptos Para Este Desarrollo
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%2344A833.svg?style=for-the-badge)
@@ -112,7 +112,7 @@ gracias a los esfuerzos de desarrolladores previos.
 ![GPT-4 Bing IA](https://img.shields.io/badge/GPT4_Bing_IA-%23F7C8E0.svg?style=for-the-badge&logoColor=white)
 ![Database Administration](https://img.shields.io/badge/database_administration-%231AACAC.svg?style=for-the-badge)
 
-### Diagrama entidad relación
+### Diagrama Entidad Relación
 
 <img src="./resources/picture/project/entity-relationship.drawio.png" width="560">
 
