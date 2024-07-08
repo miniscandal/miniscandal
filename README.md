@@ -22,11 +22,10 @@ Especializado en backend
 <img src="./resources/picture/anime/manga-02.png" width="560">
 
 ## Experiencia Profesional
-
-&nbsp;&nbsp;╱|&nbsp;、  
-(˚ˎ 。 7  
- &nbsp;|、 ˜〵  
-じしˍ ,)ノ
+⠀∧＿∧  
+( ´ •̥̥̥ ω •̥̥̥ )　　  ❀  
+,, ( ヽ∩∩ ) ,, ヽ|〃 ,,,  
+“““ ““ ““ ““ ““ ““ ““ ““ ““  
 
 Tengo más de tres años de experiencia como desarrollador de software, durante  
 los cuales he colaborado en soluciones con análisis de requisitos, administración  
@@ -56,7 +55,11 @@ habilidades técnicas, personales e interpersonales.
 
 
 ## Especialización
-(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/)＿/)☆  
+／(๑^᎑^๑)っ ＼  
+|￣∪￣  ￣ |＼／  
+|＿＿_＿＿|／  
+
 
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
@@ -70,7 +73,9 @@ habilidades técnicas, personales e interpersonales.
 
 
 ## Objetivos Personales
-☆*:.｡.o(≧▽≦)o.｡.:*☆
+&nbsp;∧ ,, ∧  
+(  ̳• · • ̳)  
+/&nbsp;&nbsp;&nbsp;&nbsp;づ♡
 
 Dedicar tiempo significativo a mi aprendizaje profesional y desarrollo personal  
 con el objetivo final de alcanzar el puesto de ingeniero principal de software.
@@ -79,8 +84,10 @@ Deseo ser una fuente de inspiración y un mentor para el equipo de ingenieros
 en formación. Creo que al hacer esto, no solo avanzaré en mi carrera profesional  
 sino que también enriqueceré aspectos importantes de mi vida.
 
-## Pasatiempos Favoritos
+## Intereses Recreativos
 (づ˶•༝•˶)づ♡
+
+
 
 Soy un gran fanático del anime y las series coreanas. No solo las disfruto como  
 una forma de entretenimiento, sino que también me gusta apreciarlas desde una  
@@ -95,10 +102,10 @@ futbol y sobre todo, bailar en el simulador Pump It Up.
 
 
 ## Proyecto Personal
-
-&nbsp;∧ ,, ∧  
-(  ̳• · • ̳)  
-/&nbsp;&nbsp;&nbsp;&nbsp;づ♡ 
+&nbsp;&nbsp;╱|&nbsp;、  
+(˚ˎ 。 7  
+ &nbsp;|、 ˜〵  
+じしˍ ,)ノ
 
 ### Microservicio para Gestión de Garantías de Telefonía
 
