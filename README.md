@@ -1,7 +1,6 @@
 # ¡Hola ✌! <img src="./resources/picture/anime/anime-05.png" width="60">
 
 ## Me conocen como "Minimi"
-≧◠‿◠≦
 
 ![Software Developer](https://img.shields.io/badge/software_developer-%23C683D7.svg?style=for-the-badge)
 ![Functional analysis](https://img.shields.io/badge/functional_analysis-%23FF8F8F.svg?style=for-the-badge)
